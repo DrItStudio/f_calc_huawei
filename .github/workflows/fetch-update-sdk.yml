@@ -16,15 +16,60 @@ jobs:
         run: |
           set -e
           mkdir -p dl
+          echo "== Start fetch =="
           bases=(
             "https://developer.huawei.com/repo" \
             "https://repo.huaweicloud.com/repository/maven" \
             "https://mirrors.huaweicloud.com/repository/maven" \
             "https://repo.hihonor.com/honor-maven"
           )
-          app_vers=(6.12.0.302 6.12.0.301 6.12.0.300 6.11.0.302 6.10.0.302 6.10.0.301 6.9.0.300 6.5.0.300 6.3.0.300)
-          sdk_vers=(3.1.2.300 3.1.0.300 3.0.2.300 3.0.1.300)
-          dl_try(){ url="$1/${2//./\/}/$3/$4/$3-$4.aar"; echo "TRY $url"; curl -f --retry 2 -L "$url" -o "dl/$3-$4.aar" && echo "OK $3-$4" || true; }
+          # Static fallback lists (will be prefixed by dynamic lists if any)
+          static_app=(6.12.0.302 6.12.0.301 6.12.0.300 6.11.0.302 6.10.0.302 6.10.0.301 6.9.0.300 6.5.0.300 6.3.0.300)
+          static_sdk=(3.1.2.300 3.1.0.300 3.0.2.300 3.0.1.300)
+          # Try to build dynamic version arrays from first reachable metadata
+          dyn_app=()
+          dyn_sdk=()
+          fetch_meta(){
+            local base=$1 group=$2 artifact=$3 target=$4
+            local path="${group//./\/}/$artifact/maven-metadata.xml"
+            local url="$base/$path"
+            code=$(curl -w '%{http_code}' -m 25 -fsSL -o meta.xml "$url" || true)
+            if [ "$code" = "200" ]; then
+              echo "Fetched metadata: $url"
+              # Extract versions, keep last 12
+              mapfile -t vs < <(grep -oE '<version>[^<]+' meta.xml | sed 's/<version>//g' | tail -n 12 | tac)
+              printf '%s\n' "${vs[@]}" > "$target"
+              rm -f meta.xml
+              return 0
+            else
+              echo "Metadata miss ($code): $url"
+              return 1
+            fi
+          }
+          for b in "${bases[@]}"; do fetch_meta "$b" com.huawei.hms appupdate app_meta && break || true; done
+          for b in "${bases[@]}"; do fetch_meta "$b" com.huawei.updatesdk update-sdk sdk_meta && break || true; done
+          [ -f app_meta ] && mapfile -t dyn_app < app_meta
+          [ -f sdk_meta ] && mapfile -t dyn_sdk < sdk_meta
+          app_vers=(${dyn_app[@]} ${static_app[@]})
+          sdk_vers=(${dyn_sdk[@]} ${static_sdk[@]})
+          echo "AppUpdate version candidates: ${app_vers[*]}"
+          echo "Update-SDK version candidates: ${sdk_vers[*]}"
+          log_file=dl/fetch_log.txt
+          dl_try(){
+            url="$1/${2//./\/}/$3/$4/$3-$4.aar"
+            echo "TRY $url" | tee -a "$log_file"
+            # capture http code
+            http=$(curl -w '%{http_code}' -m 40 -L --retry 2 -o "dl/$3-$4.aar.tmp" "$url" 2>>"$log_file" || true)
+            if [ "$http" = "200" ]; then
+              mv "dl/$3-$4.aar.tmp" "dl/$3-$4.aar"
+              echo "OK $3-$4 (200)" | tee -a "$log_file"
+              return 0
+            else
+              rm -f "dl/$3-$4.aar.tmp" || true
+              echo "FAIL $3-$4 HTTP=$http" | tee -a "$log_file"
+              return 1
+            fi
+          }
           for v in "${app_vers[@]}"; do [ -f "dl/appupdate-$v.aar" ] && break; for b in "${bases[@]}"; do [ -f "dl/appupdate-$v.aar" ] && break; dl_try "$b" com.huawei.hms appupdate "$v"; done; done
           for v in "${sdk_vers[@]}"; do [ -f "dl/update-sdk-$v.aar" ] && break; for b in "${bases[@]}"; do [ -f "dl/update-sdk-$v.aar" ] && break; dl_try "$b" com.huawei.updatesdk update-sdk "$v"; done; done
           ls -l dl || true
@@ -48,10 +93,16 @@ jobs:
           if [ $need_app -eq 1 ]; then for v in "${app_vers[@]}"; do mvn_get com.huawei.hms:appupdate:$v:aar; done; find .m2repo -type f -name 'appupdate-*.aar' -exec cp {} dl/ \; || true; fi
           if [ $need_sdk -eq 1 ]; then for v in "${sdk_vers[@]}"; do mvn_get com.huawei.updatesdk:update-sdk:$v:aar; done; find .m2repo -type f -name 'update-sdk-*.aar' -exec cp {} dl/ \; || true; fi
           ls -l dl || true
+          echo "==== SUMMARY ==== " | tee -a "$log_file"
+          [ -f dl/appupdate-*.aar ] && echo "AppUpdate AAR present" | tee -a "$log_file" || echo "AppUpdate AAR MISSING" | tee -a "$log_file"
+          [ -f dl/update-sdk-*.aar ] && echo "Update-SDK AAR present" | tee -a "$log_file" || echo "Update-SDK AAR MISSING" | tee -a "$log_file"
+          echo "Log stored in $log_file"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: huawei-update-aars
-          path: dl/*.aar
+          path: |
+            dl/*.aar
+            dl/fetch_log.txt
           if-no-files-found: warn
