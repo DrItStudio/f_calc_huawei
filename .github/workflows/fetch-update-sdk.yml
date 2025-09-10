@@ -14,9 +14,16 @@ jobs:
 
       - name: Download (curl + fallback)
         run: |
-          set -e
+          # Disable immediate exit; we control flow manually
+          set +e
           mkdir -p dl
           echo "== Start fetch =="
+          echo "== Basic network diagnostics =="
+          uname -a || true
+          echo "Resolver:"; cat /etc/resolv.conf || true
+          echo "Ping test (developer.huawei.com)"; ping -c 1 developer.huawei.com || echo "Ping failed (may be blocked)"
+          echo "DNS lookup:"; getent hosts developer.huawei.com || true
+          echo "Curl HEAD root:"; curl -I -m 10 -s https://developer.huawei.com/repo/ | head -n 1 || true
           bases=(
             "https://developer.huawei.com/repo" \
             "https://repo.huaweicloud.com/repository/maven" \
@@ -37,7 +44,7 @@ jobs:
             if [ "$code" = "200" ]; then
               echo "Fetched metadata: $url"
               # Extract versions, keep last 12
-              mapfile -t vs < <(grep -oE '<version>[^<]+' meta.xml | sed 's/<version>//g' | tail -n 12 | tac)
+              mapfile -t vs < <((grep -oE '<version>[^<]+' meta.xml || true) | sed 's/<version>//g' | tail -n 12 | tac)
               printf '%s\n' "${vs[@]}" > "$target"
               rm -f meta.xml
               return 0
@@ -97,6 +104,8 @@ jobs:
           [ -f dl/appupdate-*.aar ] && echo "AppUpdate AAR present" | tee -a "$log_file" || echo "AppUpdate AAR MISSING" | tee -a "$log_file"
           [ -f dl/update-sdk-*.aar ] && echo "Update-SDK AAR present" | tee -a "$log_file" || echo "Update-SDK AAR MISSING" | tee -a "$log_file"
           echo "Log stored in $log_file"
+          # Always exit 0 so artifact (logs) are uploaded
+          exit 0
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
