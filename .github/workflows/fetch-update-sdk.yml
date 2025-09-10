@@ -30,9 +30,12 @@ jobs:
             "https://mirrors.huaweicloud.com/repository/maven" \
             "https://repo.hihonor.com/honor-maven"
           )
+          host_tag(){ echo "$1" | sed 's~https://~~; s~/repository/maven~~; s~/honor-maven~~; s~/repo~~; s/[^a-zA-Z0-9]/_/g'; }
           # Static fallback lists (will be prefixed by dynamic lists if any)
           static_app=(6.12.0.302 6.12.0.301 6.12.0.300 6.11.0.302 6.10.0.302 6.10.0.301 6.9.0.300 6.5.0.300 6.3.0.300)
           static_sdk=(3.1.2.300 3.1.0.300 3.0.2.300 3.0.1.300)
+          alt_app_artifacts=(appupdate appmarket appmarket-service appupdate-service)
+          alt_sdk_artifacts=(update-sdk update updatekit)
           # Try to build dynamic version arrays from first reachable metadata
           dyn_app=()
           dyn_sdk=()
@@ -53,8 +56,18 @@ jobs:
               return 1
             fi
           }
-          for b in "${bases[@]}"; do fetch_meta "$b" com.huawei.hms appupdate app_meta && break || true; done
-          for b in "${bases[@]}"; do fetch_meta "$b" com.huawei.updatesdk update-sdk sdk_meta && break || true; done
+          # Collect metadata for all bases & all alt artifacts
+          for b in "${bases[@]}"; do
+            tag=$(host_tag "$b")
+            for art in "${alt_app_artifacts[@]}"; do
+              fetch_meta "$b" com.huawei.hms "$art" "meta_app_${tag}_${art}.xml" || true
+            done
+            for art in "${alt_sdk_artifacts[@]}"; do
+              fetch_meta "$b" com.huawei.updatesdk "$art" "meta_sdk_${tag}_${art}.xml" || true
+          done; done
+          # Prefer first successful canonical metadata
+          ls meta_app_*appupdate*.xml >/dev/null 2>&1 && cp $(ls -1 meta_app_*appupdate*.xml | head -n1) app_meta || true
+          ls meta_sdk_*update-sdk*.xml >/dev/null 2>&1 && cp $(ls -1 meta_sdk_*update-sdk*.xml | head -n1) sdk_meta || true
           [ -f app_meta ] && mapfile -t dyn_app < app_meta
           [ -f sdk_meta ] && mapfile -t dyn_sdk < sdk_meta
           app_vers=(${dyn_app[@]} ${static_app[@]})
@@ -77,8 +90,22 @@ jobs:
               return 1
             fi
           }
+          # Try primary artifact names first
           for v in "${app_vers[@]}"; do [ -f "dl/appupdate-$v.aar" ] && break; for b in "${bases[@]}"; do [ -f "dl/appupdate-$v.aar" ] && break; dl_try "$b" com.huawei.hms appupdate "$v"; done; done
           for v in "${sdk_vers[@]}"; do [ -f "dl/update-sdk-$v.aar" ] && break; for b in "${bases[@]}"; do [ -f "dl/update-sdk-$v.aar" ] && break; dl_try "$b" com.huawei.updatesdk update-sdk "$v"; done; done
+          # If still missing, brute-force alt artifact names for first two versions only (limit requests)
+          if ! ls dl/appupdate-*.aar >/dev/null 2>&1; then
+            for art in "${alt_app_artifacts[@]}"; do
+              [ "$art" = "appupdate" ] && continue
+              for v in "${app_vers[@]:0:2}"; do dl_try "${bases[0]}" com.huawei.hms "$art" "$v"; done
+            done
+          fi
+          if ! ls dl/update-sdk-*.aar >/dev/null 2>&1; then
+            for art in "${alt_sdk_artifacts[@]}"; do
+              [ "$art" = "update-sdk" ] && continue
+              for v in "${sdk_vers[@]:0:2}"; do dl_try "${bases[0]}" com.huawei.updatesdk "$art" "$v"; done
+            done
+          fi
           ls -l dl || true
           need_app=1; need_sdk=1
           ls dl/appupdate-*.aar >/dev/null 2>&1 && need_app=0 || true
@@ -114,4 +141,5 @@ jobs:
           path: |
             dl/*.aar
             dl/fetch_log.txt
+            meta_*.xml
           if-no-files-found: warn
