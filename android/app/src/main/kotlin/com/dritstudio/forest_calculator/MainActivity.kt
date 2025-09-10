@@ -114,10 +114,64 @@ class MainActivity : FlutterActivity() {
     // Direct legacy UpdateSdkAPI static invocation (class present in bundled AAR update-5.0.2.300)
     private fun directLegacyUpdateSdkApiCheck() {
         try {
-            val result = UpdateSdkAPI.checkAppUpdate(this)
-            Log.i("HUAWEI_UPDATE_DIRECT_LEGACY", "Direct UpdateSdkAPI.checkAppUpdate invoked result=$result")
+            // We keep a direct reference to UpdateSdkAPI class (import above) for AppGallery scanner.
+            val apiCls = UpdateSdkAPI::class.java
+
+            // Try first overload: checkAppUpdate(Context, CheckUpdateCallBack, boolean, boolean)
+            val cbkIfaceName = "com.huawei.updatesdk.service.otaupdate.CheckUpdateCallBack"
+            val cbkIface = try { Class.forName(cbkIfaceName) } catch (e: ClassNotFoundException) { null }
+            if (cbkIface != null) {
+                val proxy = java.lang.reflect.Proxy.newProxyInstance(cbkIface.classLoader, arrayOf(cbkIface)) { _, method, args ->
+                    when (method.name) {
+                        "onUpdateInfo" -> Log.i("HUAWEI_UPDATE_DIRECT_LEGACY", "onUpdateInfo: ${args?.getOrNull(0)}")
+                        "onMarketInstallInfo" -> Log.i("HUAWEI_UPDATE_DIRECT_LEGACY", "onMarketInstallInfo: ${args?.getOrNull(0)}")
+                        "onMarketStoreError" -> Log.e("HUAWEI_UPDATE_DIRECT_LEGACY", "onMarketStoreError: ${args?.getOrNull(0)}")
+                        "onUpdateStoreError" -> Log.e("HUAWEI_UPDATE_DIRECT_LEGACY", "onUpdateStoreError: ${args?.getOrNull(0)}")
+                    }
+                    null
+                }
+                try {
+                    val m = apiCls.getMethod(
+                        "checkAppUpdate",
+                        android.content.Context::class.java,
+                        cbkIface,
+                        Boolean::class.javaPrimitiveType,
+                        Boolean::class.javaPrimitiveType
+                    )
+                    Log.i("HUAWEI_UPDATE_DIRECT_LEGACY", "Invoking UpdateSdkAPI.checkAppUpdate(Context,CallBack,boolean,boolean)")
+                    m.invoke(null, this, proxy, false, false)
+                    return
+                } catch (nsme: NoSuchMethodException) {
+                    Log.w("HUAWEI_UPDATE_DIRECT_LEGACY", "Overload with booleans not found: ${nsme.message}")
+                }
+            } else {
+                Log.w("HUAWEI_UPDATE_DIRECT_LEGACY", "Callback interface $cbkIfaceName not found")
+            }
+
+            // Try second overload: checkAppUpdate(Context, UpdateParams, CheckUpdateCallBack)
+            try {
+                val updateParamsCls = Class.forName("com.huawei.updatesdk.service.otaupdate.UpdateParams")
+                val cbkIface2 = cbkIface ?: Class.forName(cbkIfaceName) // re-use if available
+                val updateParams = updateParamsCls.getDeclaredConstructor().newInstance()
+                val proxy2 = java.lang.reflect.Proxy.newProxyInstance(cbkIface2.classLoader, arrayOf(cbkIface2)) { _, method, args ->
+                    if (method.name == "onUpdateInfo") {
+                        Log.i("HUAWEI_UPDATE_DIRECT_LEGACY", "onUpdateInfo(alt overload): ${args?.getOrNull(0)}")
+                    }
+                    null
+                }
+                val m2 = apiCls.getMethod(
+                    "checkAppUpdate",
+                    android.content.Context::class.java,
+                    updateParamsCls,
+                    cbkIface2
+                )
+                Log.i("HUAWEI_UPDATE_DIRECT_LEGACY", "Invoking UpdateSdkAPI.checkAppUpdate(Context,UpdateParams,CallBack)")
+                m2.invoke(null, this, updateParams, proxy2)
+            } catch (t2: Throwable) {
+                Log.e("HUAWEI_UPDATE_DIRECT_LEGACY", "All direct overload attempts failed: ${t2.message}")
+            }
         } catch (t: Throwable) {
-            Log.e("HUAWEI_UPDATE_DIRECT_LEGACY", "Direct UpdateSdkAPI call failed: ${t.message}")
+            Log.e("HUAWEI_UPDATE_DIRECT_LEGACY", "Direct UpdateSdkAPI outer failure: ${t.message}")
         }
     }
 
