@@ -1,0 +1,105 @@
+🛡️ Dateschutzpolitik
+
+Gëltegkeetsdatum: 6. Mee 2025
+Numm vun der App: Forest Calculator
+Entwéckler: DR.IT.Studio
+Standuert: Kiew, Ukrain
+Kontakt: support@dr-it.studio
+
+1. Aféierung
+D'App Forest Calculator, entwéckelt vum DR.IT.Studio ("mir"), ass fir d'Berechnung vum Holzvolumen an aner professionell Funktiounen entwéckelt.
+Dës Dateschutzpolitik erkläert, wéi eng Donnéeën mir sammelen, wéi mir se benotzen, späicheren, schützen an transferéieren, inklusiv Informatiounen iwwer Reklammen an bezuelte Abonnementer.
+D'App gëtt iwwer Huawei AppGallery verdeelt, an all Reklammen- an Abonnementfunktiounen entspriechen den Ufuerderunge vu Huawei.
+
+2. Wat fir Donnéeën sammelen mir
+
+2.1 Perséinlech Donnéeën
+Mir sammelen net automatesch perséinlech Donnéeën. De Benotzer kann fräiwëlleg ubidden:
+- E-Mail-Adress beim Kontakt mam Support;
+- Inhalt an Parameteren, manuell an d'App aginn (Berechnungen, Notizen).
+
+2.2 Net-perséinlech (technesch) Donnéeën
+Fir Diagnostik, Serviceverbesserung an Reklammen kënne mir anonym Donnéeën sammelen, wéi:
+- Geräittentyp an OS-Versioun;
+- Interface-Sprooch;
+- Frequenz an Aart vun der Benotzung vun den App-Funktiounen;
+- Feeler-Donnéeën (crash logs);
+- Geräit-Reklammen-Identifikator (OAID oder Advertising ID).
+
+3. Rechter an Zougang zum Geräit
+
+Recht                  Zweck
+Zougang zum Späicher    Späicheren an opmaachen vu Fichieren (PDF, Excel, etc.)
+Internet                Updates, Reklammen, E-Mail-Versand
+Deelen mat aneren Apps Export vu Berechnungen iwwer Messenger an E-Mail
+Lëscht vun installéierten Apps (optional) Fir verfügbar Exportmethoden ze weisen
+
+Mir benotzen d'Rechter net fir Aktivitéiten an aneren Apps ze verfollegen.
+
+4. Reklammen an Déngschter vun Drëtten
+
+4.1 Allgemeng Informatioun
+D'App kann personaliséiert oder net-personaliséiert Reklammen iwwer Drëtt-Reklammen-Netzwerken weisen, dorënner:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+De Benotzer wielt den Typ vun der Reklam bei der éischter Benotzung a kann et an den App-Einstellungen änneren.
+
+4.2 Belount Reklammen (Rewarded Video)
+- De Benotzer kuckt fräiwëlleg e Video fir Zougang zu bestëmmte Funktiounen ze kréien (z.B. Premium-Tools).
+- D'Kucken vun belount Reklammen ass ëmmer optional.
+- Ier d'Reklam gewisen gëtt, kritt de Benotzer eng kloer Erklärung vun der Funktioun déi hien kritt.
+- D'Belounung gëtt nëmmen nom komplette Kucken vun der Reklam verginn.
+
+4.3 Technologien, déi vun Drëtten Déngschter benotzt ginn
+Drëtt-Reklammen-Netzwerken kënnen benotzen:
+- Reklammen-Identifikatoren;
+- Cookies oder ähnlech Technologien;
+- aggregéiert Donnéeën fir personaliséiert Reklammen.
+
+Reklammen-Netzwerk Politiken:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Bezuelt Funktiounen an Abonnementer
+D'App kann ubidden:
+- fortgeschratt Berechnungsmethoden;
+- Export op PDF, Excel;
+- Entfernung vu Reklammen;
+- Premium-Zougang (Abonnement oder eemoleg).
+
+All Bezuelungen ginn iwwer Huawei In-App Purchases oder Google Play veraarbecht.
+Wann d'App iwwer Huawei AppGallery installéiert ass, ginn all Akeef iwwer Huawei IAP veraarbecht. Google Play Links sinn nëmme fir Versiounen relevant, déi iwwer Google Play verdeelt ginn.
+
+Mir späicheren oder veraarbechten keng Bankkaart-Donnéeën.
+
+6. Kontroll iwwer Är Donnéeën
+Dir kënnt:
+- gespäichert Donnéeën an der App oder op Android läschen;
+- Rechter an den Geräiteinstellungen zréckzéien;
+- Reklammen duerch de Kaf vun der relevanter Funktioun deaktivéieren;
+- Zoustëmmung fir personaliséiert Reklammen änneren;
+- d'Läschung vun fräiwëlleg ugeboten Donnéeën ufroen andeems Dir op support@dr-it.studio schreift.
+
+7. Sécherheet
+- D'App schéckt keng Benotzerdonnéeën ouni Zoustëmmung un extern Serveren.
+- All Berechnungen an Dokumenter ginn lokal gespäichert.
+- Et gëtt recommandéiert, Bildschiermspär an aner Gerätschutzmoossnamen ze benotzen.
+
+8. Dateschutz fir Kanner
+D'App ass net fir Kanner ënner 13 Joer geduecht an sammelt hir Donnéeën net. Wann e Kand perséinlech Donnéeën ugeboten huet, kontaktéiert eis — mir läschen se.
+
+9. Aktualiséierungen vun der Politik
+Mir kënnen dës Politik periodesch aktualiséieren. All Ännerunge ginn effektiv mat der Verëffentlechung vun der neier Versioun an dem aktualiséierten Gëltegkeetsdatum. Benotzer ginn ugeroden, d'Politik regelméisseg ze kontrolléieren.
+
+10. Kontaktinformatioun
+DR.IT.Studio
+Kiew, Ukrain
+E-Mail: support@dr-it.studio
+
+11. Benotzerzoustëmmung
+Andeems Dir d'App Forest Calculator benotzt, bestätegt Dir Är Zoustëmmung mat den Bedingungen vun dëser Dateschutzpolitik. Wann Dir net averstane sidd — stoppt d'Benotzung vun der App.

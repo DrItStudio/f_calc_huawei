@@ -1,0 +1,105 @@
+🛡️ Privaatsuspoliitika
+
+Jõustumiskuupäev: 6. mai 2025
+Rakenduse nimi: Forest Calculator
+Arendaja: DR.IT.Studio
+Asukoht: Ukraina, Kiiev
+Kontakt: support@dr-it.studio
+
+1. Sissejuhatus
+Forest Calculator rakendus, mille on välja töötanud DR.IT.Studio ("meie"), on mõeldud puidu mahu arvutamiseks ja muude professionaalsete funktsioonide jaoks.
+See privaatsuspoliitika selgitab, milliseid andmeid me kogume, kuidas neid kasutame, salvestame, kaitseme ja edastame, sealhulgas teavet reklaamide ja tasuliste tellimuste kohta.
+Rakendus levitatakse Huawei AppGallery kaudu ning kõik reklaami- ja tellimusfunktsioonid vastavad Huawei nõuetele.
+
+2. Milliseid andmeid me kogume
+
+2.1 Isikuandmed
+Me ei kogu isikuandmeid automaatselt. Kasutaja võib vabatahtlikult anda:
+- e-posti aadressi tugiteenusega ühenduse võtmisel;
+- rakendusse käsitsi sisestatud sisu ja parameetrid (arvutused, märkmed).
+
+2.2 Mitteisiklikud (tehnilised) andmed
+Diagnostika, teenuse täiustamise ja reklaamide kuvamise eesmärgil võime koguda anonüümseid andmeid, nagu:
+- seadme tüüp ja OS-i versioon;
+- liidese keel;
+- rakenduse funktsioonide kasutamise sagedus ja viis;
+- vealogid (crash logs);
+- seadme reklaamiidentifikaator (OAID või Advertising ID).
+
+3. Õigused ja juurdepääs seadmele
+
+Õigus                  Eesmärk
+Juurdepääs salvestusele  Failide salvestamine ja avamine (PDF, Excel jne)
+Internet                Uuendused, reklaamide kuvamine, e-kirjade saatmine
+Jagamine teiste rakendustega Arvutuste eksport sõnumirakenduste ja e-posti kaudu
+Paigaldatud rakenduste loend (valikuline) Saadaval ekspordimeetodite kuvamiseks
+
+Me ei kasuta õigusi teiste rakenduste tegevuse jälgimiseks.
+
+4. Reklaamid ja kolmanda osapoole teenused
+
+4.1 Üldinfo
+Rakendus võib kuvada isikupärastatud või mitteisikupärastatud reklaame kolmanda osapoole reklaamivõrkude kaudu, sealhulgas:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Kasutaja valib reklaamitüübi esmakordsel kasutamisel ja saab seda rakenduse seadetes muuta.
+
+4.2 Tasustatud reklaamid (Rewarded Video)
+- Kasutaja vaatab vabatahtlikult videot, et saada juurdepääs teatud funktsioonidele (nt premium-tööriistad).
+- Tasustatud reklaamide vaatamine on alati vabatahtlik.
+- Enne reklaami kuvamist saab kasutaja selge selgituse, millise funktsiooni ta saab.
+- Tasu antakse ainult pärast reklaami täielikku vaatamist.
+
+4.3 Kolmanda osapoole teenuste tehnoloogiad
+Kolmanda osapoole reklaamivõrgud võivad kasutada:
+- reklaamiidentifikaatoreid;
+- küpsiseid või sarnaseid tehnoloogiaid;
+- koondandmeid isikupärastatud reklaamide kuvamiseks.
+
+Reklaamivõrkude poliitikad:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Tasulised funktsioonid ja tellimused
+Rakendus võib pakkuda:
+- täiustatud arvutusmeetodeid;
+- eksporti PDF-i, Excelisse;
+- reklaamide eemaldamist;
+- premium-juurdepääsu (tellimus või ühekordne).
+
+Kõik maksed töödeldakse Huawei In-App Purchases või Google Play kaudu.
+Kui rakendus on installitud Huawei AppGallery kaudu, töödeldakse kõik ostud Huawei IAP kaudu. Google Play lingid kehtivad ainult Google Play kaudu levitatavate versioonide puhul.
+
+Me ei salvesta ega töötle pangakaardi andmeid.
+
+6. Kontroll oma andmete üle
+Saate:
+- kustutada salvestatud andmed rakenduses või Androidis;
+- tühistada õigused seadme seadetes;
+- reklaamid deaktiveerida vastava funktsiooni ostmisega;
+- muuta nõusolekut isikupärastatud reklaamide kuvamiseks;
+- taotleda vabatahtlikult antud andmete kustutamist, kirjutades aadressile support@dr-it.studio.
+
+7. Turvalisus
+- Rakendus ei edasta kasutaja andmeid ilma nõusolekuta välistele serveritele.
+- Kõik arvutused ja dokumendid salvestatakse lokaalselt.
+- Soovitatav on kasutada ekraanilukku ja muid seadme kaitsemeetmeid.
+
+8. Laste privaatsus
+Rakendus ei ole mõeldud alla 13-aastastele lastele ega kogu nende andmeid. Kui laps on esitanud isikuandmeid, võtke meiega ühendust — kustutame need.
+
+9. Poliitika uuendused
+Võime seda poliitikat perioodiliselt uuendada. Kõik muudatused jõustuvad uue versiooni avaldamisel koos uuendatud jõustumiskuupäevaga. Kasutajatel soovitatakse poliitikat regulaarselt kontrollida.
+
+10. Kontaktandmed
+DR.IT.Studio
+Kiiev, Ukraina
+E-post: support@dr-it.studio
+
+11. Kasutaja nõusolek
+Rakendust Forest Calculator kasutades kinnitate oma nõusolekut selle privaatsuspoliitika tingimustega. Kui te ei nõustu — lõpetage rakenduse kasutamine.

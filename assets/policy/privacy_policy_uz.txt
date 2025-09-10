@@ -1,0 +1,106 @@
+🛡️ Maxfiylik siyosati
+
+Kuchga kirish sanasi: 2025-yil 6-may
+Ilova nomi: Forest Calculator
+Dasturchi: DR.IT.Studio
+Joylashuv: Kiyev, Ukraina
+Aloqa: support@dr-it.studio
+
+1. Kirish
+Forest Calculator ilovasi, DR.IT.Studio ("biz") tomonidan ishlab chiqilgan, yog'och hajmini hisoblash va boshqa professional funksiyalar uchun mo'ljallangan.
+Ushbu maxfiylik siyosati biz qanday ma'lumotlarni yig'amiz, qanday foydalanamiz, saqlaymiz, himoya qilamiz va uzatamiz, jumladan reklama va pullik obunalar haqidagi ma'lumotlarni tushuntiradi.
+Ilova Huawei AppGallery orqali tarqatiladi va barcha reklama hamda obuna funksiyalari Huawei talablariga mos keladi.
+
+2. Biz qanday ma'lumotlarni yig'amiz
+
+2.1 Shaxsiy ma'lumotlar
+Biz shaxsiy ma'lumotlarni avtomatik ravishda yig'maymiz. Foydalanuvchi ixtiyoriy ravishda taqdim qilishi mumkin:
+- yordamga murojaat qilganda elektron pochta manzili;
+- ilovada qo'lda kiritilgan kontent va parametrlar (hisob-kitoblar, eslatmalar).
+
+2.2 Shaxsiy bo'lmagan (texnik) ma'lumotlar
+Diagnostika, xizmatni yaxshilash va reklama uchun biz anonim ma'lumotlarni yig'ishimiz mumkin, masalan:
+- qurilma turi va OS versiyasi;
+- interfeys tili;
+- ilova funksiyalaridan foydalanish tezligi va usuli;
+- xatolik ma'lumotlari (crash logs);
+- qurilma reklama identifikatori (OAID yoki Advertising ID).
+
+3. Ruxsatlar va qurilmaga kirish
+
+Ruxsat                  Maqsad
+Saqlashga kirish        Fayllarni saqlash va ochish (PDF, Excel va boshqalar)
+Internet                Yangilanishlar, reklama, elektron pochta yuborish
+Boshqa ilovalar bilan ulashish Hisob-kitoblarni messenger va elektron pochta orqali eksport qilish
+O'rnatilgan ilovalar ro'yxati (ixtiyoriy) Mavjud eksport usullarini ko'rsatish
+
+Biz ruxsatlarni boshqa ilovalardagi faoliyatni kuzatish uchun ishlatmaymiz.
+
+4. Reklama va uchinchi tomon xizmatlari
+
+4.1 Umumiy ma'lumot
+Ilova uchinchi tomon reklama tarmoqlari orqali shaxsiy yoki shaxsiy bo'lmagan reklamalarni ko'rsatishi mumkin, jumladan:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Foydalanuvchi birinchi foydalanishda reklama turini tanlaydi va ilova sozlamalarida o'zgartirishi mumkin.
+
+4.2 Mukofotli reklamalar (Rewarded Video)
+- Foydalanuvchi ixtiyoriy ravishda video tomosha qiladi, ba'zi funksiyalarga (masalan, premium asboblar) kirish uchun.
+- Mukofotli reklamalarni tomosha qilish har doim ixtiyoriy.
+- Reklama ko'rsatilishidan oldin, foydalanuvchi oladigan funksiya haqida aniq tushuntirish oladi.
+- Mukofot faqat reklamani to'liq tomosha qilgandan so'ng beriladi.
+
+4.3 Uchinchi tomon xizmatlari tomonidan ishlatiladigan texnologiyalar
+Uchinchi tomon reklama tarmoqlari foydalanishi mumkin:
+- reklama identifikatorlari;
+- cookies yoki shunga o'xshash texnologiyalar;
+- shaxsiy reklamalar uchun birlashtirilgan ma'lumotlar.
+
+Reklama tarmog'i siyosatlari:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Pullik funksiyalar va obunalar
+Ilova quyidagilarni taklif qilishi mumkin:
+- ilg'or hisoblash usullari;
+- PDF, Excelga eksport;
+- reklamalarni olib tashlash;
+- premium kirish (obuna yoki bir martalik xarid).
+
+Barcha to'lovlar Huawei In-App Purchases yoki Google Play orqali amalga oshiriladi.
+Ilova Huawei AppGallery orqali o'rnatilgan bo'lsa, barcha xaridlar Huawei IAP orqali amalga oshiriladi. Google Play havolalari faqat Google Play orqali tarqatilgan versiyalar uchun tegishli.
+
+Biz bank kartasi ma'lumotlarini saqlamaymiz yoki qayta ishlamaymiz.
+
+6. Ma'lumotlaringiz ustidan nazorat
+Siz:
+- ilovada yoki Androidda saqlangan ma'lumotlarni o'chirishingiz mumkin;
+- qurilma sozlamalarida ruxsatlarni bekor qilishingiz mumkin;
+- tegishli funksiyani sotib olib reklamalarni o'chirib qo'yishingiz mumkin;
+- shaxsiy reklamalar uchun rozilikni o'zgartirishingiz mumkin;
+- support@dr-it.studio ga yozib, ixtiyoriy ravishda taqdim etilgan ma'lumotlarni o'chirishni so'rashingiz mumkin.
+
+7. Xavfsizlik
+- Ilova foydalanuvchi ma'lumotlarini roziliksiz masofaviy serverlarga uzatmaydi.
+- Barcha hisob-kitoblar va hujjatlar lokal saqlanadi.
+- Ekran qulfi va boshqa qurilma xavfsizlik choralarini ishlatish tavsiya etiladi.
+
+8. Bolalarning maxfiyligi
+Ilova 13 yoshdan kichik bolalar uchun mo'ljallanmagan va ularning ma'lumotlarini yig'maydi. Agar bola shaxsiy ma'lumot taqdim etsa, biz bilan bog'laning — biz uni o'chiramiz.
+
+9. Siyosat yangilanishlari
+Biz ushbu siyosatni vaqti-vaqti bilan yangilashimiz mumkin. Barcha o'zgarishlar yangi versiya e'lon qilingandan va yangilangan kuchga kirish sanasidan so'ng kuchga kiradi. Foydalanuvchilarga siyosatni muntazam tekshirish tavsiya etiladi.
+
+10. Aloqa ma'lumotlari
+DR.IT.Studio
+Kiyev, Ukraina
+Email: support@dr-it.studio
+
+11. Foydalanuvchi roziligi
+Forest Calculator ilovasidan foydalanib, siz ushbu maxfiylik siyosati shartlariga roziligingizni tasdiqlaysiz. Agar rozi bo'lmasangiz — ilovadan foydalanishni to'xtating.
+

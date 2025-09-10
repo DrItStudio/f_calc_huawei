@@ -1,0 +1,106 @@
+🛡️ Polasaí Príobháideachais
+
+Dáta éifeachtach: 6 Bealtaine 2025
+Ainm an aip: Forest Calculator
+Forbróir: DR.IT.Studio
+Suíomh: Kyiv, Úcráin
+Teagmháil: support@dr-it.studio
+
+1. Réamhrá
+Is aip é Forest Calculator, forbartha ag DR.IT.Studio ("muid"), chun toirt adhmaid agus feidhmeanna gairmiúla eile a ríomh.
+Míníonn an Polasaí Príobháideachais seo cén fhaisnéis a bhailímid, conas a úsáidimid, a stóráilimid, a chosnaímid agus a aistrímid í, lena n-áirítear faisnéis faoi fhógraíocht agus síntiúis íoctha.
+Déantar an aip a dháileadh trí Huawei AppGallery, agus comhlíonann gach gné fógraíochta agus síntiúis riachtanais Huawei.
+
+2. Cén fhaisnéis a bhailímid
+
+2.1 Faisnéis phearsanta
+Ní bhailímid faisnéis phearsanta go huathoibríoch. Féadfaidh an t-úsáideoir í a sholáthar go deonach:
+- seoladh ríomhphoist nuair a dhéanann tú teagmháil le tacaíocht;
+- ábhar agus paraiméadair a iontráladh de láimh san aip (ríomhanna, nótaí).
+
+2.2 Faisnéis neamhphearsanta (teicniúil)
+Chun diagnóis, feabhsú seirbhíse agus fógraíocht, féadfaimid sonraí anaithnid a bhailiú mar:
+- cineál gléis agus leagan OS;
+- teanga an chomhéadain;
+- minicíocht agus modh úsáide gnéithe an aip;
+- sonraí earráide (crash logs);
+- aitheantas fógraíochta an ghléis (OAID nó Advertising ID).
+
+3. Ceadanna agus rochtain ar an ngléas
+
+Cead                  Cuspóir
+Rochtain ar stóráil     Comhaid a shábháil agus a oscailt (PDF, Excel, srl.)
+Idirlíon                Nuashonruithe, fógraíocht, seoladh ríomhphoist
+Comhroinnt le haipeanna eile Easpórtáil ríomhanna trí theachtaireachtaí agus ríomhphost
+Liosta aipeanna suiteáilte (roghnach) Chun modhanna easpórtála atá ar fáil a thaispeáint
+
+Ní úsáidimid ceadanna chun gníomhaíochtaí in aipeanna eile a rianú.
+
+4. Fógraíocht agus seirbhísí tríú páirtí
+
+4.1 Eolas ginearálta
+Féadfaidh an aip fógraí pearsantaithe nó neamhphearsantaithe a thaispeáint trí líonraí fógraíochta tríú páirtí, lena n-áirítear:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Roghnaíonn an t-úsáideoir cineál an fhógra ag an gcéad úsáid agus is féidir é a athrú sna socruithe aip.
+
+4.2 Fógraíocht le luach saothair (Rewarded Video)
+- Féachann an t-úsáideoir ar fhíseán go deonach chun rochtain a fháil ar ghnéithe áirithe (m.sh. uirlisí préimhe).
+- Tá féachaint ar fhógraí le luach saothair roghnach i gcónaí.
+- Sula dtaispeántar an fógra, faigheann an t-úsáideoir míniú soiléir ar an ngné a gheobhaidh sé.
+- Tugtar an luach saothair ach amháin tar éis an fógra a bheith féachta go hiomlán.
+
+4.3 Teicneolaíochtaí a úsáideann seirbhísí tríú páirtí
+Féadfaidh líonraí fógraíochta tríú páirtí úsáid a bhaint as:
+- aitheantóirí fógraíochta;
+- fianáin nó teicneolaíochtaí comhchosúla;
+- sonraí comhthiomsaithe le haghaidh fógraíochta pearsantaithe.
+
+Polasaithe líonraí fógraíochta:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Gnéithe íoctha agus síntiúis
+Féadfaidh an aip:
+- modhanna ríofa ardleibhéil a thairiscint;
+- easpórtáil go PDF, Excel;
+- fógraí a bhaint;
+- rochtain préimhe (síntiús nó aon-uaire).
+
+Déantar gach íocaíocht trí Huawei In-App Purchases nó Google Play.
+Má tá an aip suiteáilte trí Huawei AppGallery, déantar gach ceannachán trí Huawei IAP. Tá naisc le Google Play ábhartha do leaganacha a dháileadh trí Google Play amháin.
+
+Ní stórálaimid ná ní phróiseálaimid sonraí cárta bainc.
+
+6. Rialú ar do shonraí
+Is féidir leat:
+- sonraí sábháilte san aip nó ar Android a scriosadh;
+- ceadanna a tharraingt siar i socruithe an ghléis;
+- fógraí a dhíchumasú trí ghné ábhartha a cheannach;
+- toiliú a athrú le haghaidh fógraíochta pearsantaithe;
+- scriosadh sonraí a sholáthraíodh go deonach a iarraidh trí scríobh chuig support@dr-it.studio.
+
+7. Slándáil
+- Ní sheolann an aip sonraí úsáideora chuig freastalaithe seachtracha gan toiliú.
+- Stóráiltear gach ríomh agus doiciméad go háitiúil.
+- Moltar glasáil scáileáin agus cosaintí eile ar an ngléas a úsáid.
+
+8. Príobháideachas leanaí
+Níl an aip beartaithe do leanaí faoi 13 bliana d’aois agus ní bhailíonn sé a gcuid sonraí. Má sholáthraíonn leanbh sonraí pearsanta, déan teagmháil linn — scriosfaimid iad.
+
+9. Nuashonruithe ar an bPolasaí
+Féadfaimid an Polasaí seo a nuashonrú go tréimhsiúil. Tagann gach athrú i bhfeidhm le foilsiú an leagain nua agus an dáta éifeachtach nuashonraithe. Moltar d’úsáideoirí an polasaí a sheiceáil go rialta.
+
+10. Eolas teagmhála
+DR.IT.Studio
+Kyiv, Úcráin
+Ríomhphost: support@dr-it.studio
+
+11. Toiliú Úsáideora
+Trí úsáid a bhaint as an aip Forest Calculator, dearbhaíonn tú do thoiliú le téarmaí an Pholasaí Príobháideachais seo. Mura n-aontaíonn tú — stop úsáid a bhaint as an aip.
+

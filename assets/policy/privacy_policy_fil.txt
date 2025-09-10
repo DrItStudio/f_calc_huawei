@@ -1,0 +1,105 @@
+🛡️ Patakaran sa Privacy
+
+Petsa ng bisa: Mayo 6, 2025
+Pangalan ng app: Forest Calculator
+Developer: DR.IT.Studio
+Lokasyon: Kyiv, Ukraine
+Kontak: support@dr-it.studio
+
+1. Panimula
+Ang Forest Calculator app, na binuo ng DR.IT.Studio ("kami"), ay idinisenyo para sa pagkalkula ng dami ng kahoy at iba pang propesyonal na mga function.
+Ipinaliliwanag ng Patakaran sa Privacy na ito kung anong data ang kinokolekta namin, paano namin ito ginagamit, iniimbak, pinoprotektahan, at inililipat, kabilang ang impormasyon tungkol sa advertising at bayad na mga subscription.
+Ang app ay ipinamamahagi sa pamamagitan ng Huawei AppGallery, at lahat ng tampok ng advertising at subscription ay sumusunod sa mga kinakailangan ng Huawei.
+
+2. Anong Data ang Kinokolekta Namin
+
+2.1 Personal na Impormasyon
+Hindi kami awtomatikong nangongolekta ng personal na data. Maaaring boluntaryong magbigay ang user ng:
+- email address kapag nakikipag-ugnayan sa support;
+- nilalaman at mga parameter na manu-manong inilagay sa app (mga kalkulasyon, tala).
+
+2.2 Hindi Personal (Teknikal) na Impormasyon
+Para sa diagnostic, pagpapabuti ng serbisyo, at advertising, maaari kaming mangolekta ng anonymous na data gaya ng:
+- uri ng device at bersyon ng OS;
+- wika ng interface;
+- dalas at paraan ng paggamit ng mga tampok ng app;
+- error data (crash logs);
+- advertising identifier ng device (OAID o Advertising ID).
+
+3. Mga Pahintulot at Access sa Device
+
+Pahintulot                  Layunin
+Access sa Storage            Pag-save at pagbubukas ng mga file (PDF, Excel, atbp.)
+Internet                     Mga update, advertising, pagpapadala ng email
+Pagbabahagi sa ibang app     Pag-export ng mga kalkulasyon sa pamamagitan ng messenger at email
+Listahan ng naka-install na app (opsyonal) Para ipakita ang mga available na paraan ng pag-export
+
+Hindi namin ginagamit ang mga pahintulot para subaybayan ang mga aktibidad sa ibang app.
+
+4. Advertising at Third-Party Services
+
+4.1 Pangkalahatang Impormasyon
+Maaaring magpakita ang app ng personalized o hindi personalized na mga ad sa pamamagitan ng third-party ad networks, kabilang ang:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Pinipili ng user ang uri ng ad sa unang paggamit at maaaring baguhin ito sa app settings.
+
+4.2 Rewarded Advertising (Rewarded Video)
+- Boluntaryong nanonood ang user ng video para ma-access ang ilang tampok (hal. premium tools).
+- Ang panonood ng rewarded ads ay laging opsyonal.
+- Bago ipakita ang ad, tumatanggap ang user ng malinaw na paliwanag ng tampok na makukuha niya.
+- Ang reward ay ibinibigay lamang pagkatapos mapanood nang buo ang ad.
+
+4.3 Mga Teknolohiyang Ginagamit ng Third-Party Services
+Maaaring gumamit ang third-party ad networks ng:
+- advertising identifiers;
+- cookies o katulad na teknolohiya;
+- pinagsama-samang data para sa personalized advertising.
+
+Mga patakaran ng ad network:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Bayad na Mga Tampok at Subscription
+Maaaring mag-alok ang app ng:
+- advanced na mga paraan ng pagkalkula;
+- pag-export sa PDF, Excel;
+- pag-alis ng ad;
+- premium access (subscription o isang beses).
+
+Lahat ng bayad ay pinoproseso sa pamamagitan ng Huawei In-App Purchases o Google Play.
+Kung ang app ay na-install sa pamamagitan ng Huawei AppGallery, lahat ng pagbili ay pinoproseso sa pamamagitan ng Huawei IAP. Ang mga link sa Google Play ay may kaugnayan lamang sa mga bersyong ipinamamahagi sa Google Play.
+
+Hindi kami nag-iimbak o nagpoproseso ng bank card data.
+
+6. Kontrol sa Iyong Data
+Maaari kang:
+- magtanggal ng naka-save na data sa app o Android;
+- bawiin ang mga pahintulot sa device settings;
+- i-disable ang ads sa pamamagitan ng pagbili ng kaugnay na tampok;
+- baguhin ang pahintulot para sa personalized advertising;
+- humiling ng pagtanggal ng boluntaryong ibinigay na data sa pamamagitan ng pagsulat sa support@dr-it.studio.
+
+7. Seguridad
+- Hindi ipinapadala ng app ang user data sa remote servers nang walang pahintulot.
+- Lahat ng kalkulasyon at dokumento ay nakaimbak nang lokal.
+- Inirerekomenda ang paggamit ng screen lock at iba pang proteksyon ng device.
+
+8. Privacy ng Bata
+Ang app ay hindi para sa mga batang wala pang 13 taong gulang at hindi nangongolekta ng kanilang data. Kung ang bata ay nagbigay ng personal na data, makipag-ugnayan sa amin — tatanggalin namin ito.
+
+9. Mga Update sa Patakaran
+Maaari naming i-update ang Patakaran na ito nang pana-panahon. Lahat ng pagbabago ay magkakabisa sa paglalathala ng bagong bersyon na may na-update na petsa ng bisa. Hinihikayat ang mga user na regular na suriin ang patakaran.
+
+10. Impormasyon sa Pakikipag-ugnayan
+DR.IT.Studio
+Kyiv, Ukraine
+Email: support@dr-it.studio
+
+11. Pahintulot ng User
+Sa paggamit ng Forest Calculator app, kinukumpirma mo ang iyong pahintulot sa mga tuntunin ng Patakaran sa Privacy na ito. Kung hindi ka sumasang-ayon — itigil ang paggamit ng app.

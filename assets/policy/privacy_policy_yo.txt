@@ -1,0 +1,105 @@
+🛡️ Ilana Asiri
+
+Ọjọ ibẹrẹ: 6 May 2025
+Orukọ app: Forest Calculator
+Onkọwe: DR.IT.Studio
+Ibi: Kyiv, Ukraine
+Ibaraẹnisọrọ: support@dr-it.studio
+
+1. Akopọ
+App Forest Calculator, ti DR.IT.Studio ("awa") ṣe, jẹ fun iṣiro iwọn igi ati awọn iṣẹ amọdaju miiran.
+Ilana asiri yii ṣalaye iru data ti a gba, bi a ṣe nlo, fipamọ, daabobo ati gbe e, pẹlu alaye nipa ipolowo ati alabapin ti a sanwo.
+App naa pin nipasẹ Huawei AppGallery ati gbogbo awọn ẹya ipolowo ati alabapin ni ibamu pẹlu awọn ibeere Huawei.
+
+2. Data ti a gba
+
+2.1 Data ti ara ẹni
+A ko gba data ti ara ẹni laifọwọyi. Olumulo le fi silẹ ni ifẹ:
+- adirẹsi imeeli nigba ti o ba kan si atilẹyin;
+- akoonu ati awọn paramita ti a tẹ ni ọwọ sinu app (iṣiro, awọn akọsilẹ).
+
+2.2 Data ti kii ṣe ti ara ẹni (imọ-ẹrọ)
+Fun ayẹwo, ilọsiwaju iṣẹ ati ipolowo, a le gba data ailorukọ bi:
+- iru ẹrọ ati ẹya OS;
+- ede wiwo;
+- igbohunsafẹfẹ ati ọna lilo awọn ẹya app;
+- data aṣiṣe (crash logs);
+- idanimọ ipolowo ẹrọ (OAID tabi Advertising ID).
+
+3. Aṣẹ ati wiwọle ẹrọ
+
+Aṣẹ                  Idi
+Wiwọle ibi ipamọ      Fipamọ ati ṣi faili (PDF, Excel, ati bẹbẹ lọ)
+Intanẹẹti              Imudojuiwọn, ipolowo, fifiranṣẹ imeeli
+Pipin pẹlu awọn app miiran Gbigbe iṣiro nipasẹ messenger ati imeeli
+Atokọ awọn app ti fi sori ẹrọ (aṣayan) Fihan awọn ọna gbigbe ti o wa
+
+A ko lo awọn aṣẹ lati tọpinpin iṣẹ ni awọn app miiran.
+
+4. Ipolowo ati awọn iṣẹ ẹgbẹ kẹta
+
+4.1 Alaye gbogbogbo
+App le fi ipolowo ti ara ẹni tabi ti kii ṣe ti ara ẹni han nipasẹ awọn nẹtiwọọki ipolowo ẹgbẹ kẹta, pẹlu:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Olumulo yan iru ipolowo ni lilo akọkọ ati le yipada ni eto app.
+
+4.2 Ipolowo ere (Rewarded Video)
+- Olumulo wo fidio ni ifẹ lati wọle si diẹ ninu awọn ẹya (apẹẹrẹ: awọn irinṣẹ Ere).
+- Wiwo ipolowo ere jẹ aṣayan nigbagbogbo.
+- Ṣaaju ki ipolowo to han, olumulo gba alaye kedere nipa ẹya ti yoo gba.
+- Ere nikan ni a fun lẹhin wiwo ipolowo ni kikun.
+
+4.3 Imọ-ẹrọ ti awọn iṣẹ ẹgbẹ kẹta nlo
+Awọn nẹtiwọọki ipolowo ẹgbẹ kẹta le lo:
+- idanimọ ipolowo;
+- cookies tabi imọ-ẹrọ ti o jọra;
+- data apapọ fun ipolowo ti ara ẹni.
+
+Ilana nẹtiwọọki ipolowo:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Awọn ẹya ti a sanwo ati alabapin
+App le pese:
+- awọn ọna iṣiro to ti ni ilọsiwaju;
+- gbigbe si PDF, Excel;
+- yiyọ ipolowo;
+- wiwọle Ere (alabapin tabi rira lẹẹkan).
+
+Gbogbo awọn sisanwo ni a ṣe nipasẹ Huawei In-App Purchases tabi Google Play.
+Ti app ba fi sori ẹrọ nipasẹ Huawei AppGallery, gbogbo awọn rira ni a ṣe nipasẹ Huawei IAP. Awọn ọna asopọ Google Play jẹ pataki fun awọn ẹya ti a pin nipasẹ Google Play nikan.
+
+A ko fipamọ tabi ṣe ilana data kaadi banki.
+
+6. Iṣakoso lori data rẹ
+O le:
+- paarẹ data ti o fipamọ sinu app tabi Android;
+- fagilee awọn aṣẹ ni eto ẹrọ;
+- mu ipolowo ṣiṣẹ nipa rira ẹya to baamu;
+- yipada ifọwọsi fun ipolowo ti ara ẹni;
+- beere piparẹ data ti a fi silẹ ni ifẹ nipa kikọ si support@dr-it.studio.
+
+7. Aabo
+- App ko firanṣẹ data olumulo si olupin latọna jijin laisi ifọwọsi.
+- Gbogbo iṣiro ati awọn iwe aṣẹ ni a fipamọ ni agbegbe.
+- O ni imọran lati lo titiipa iboju ati awọn igbese aabo ẹrọ miiran.
+
+8. Asiri awọn ọmọde
+App ko jẹ fun awọn ọmọde labẹ ọdun 13 ati ko gba data wọn. Ti ọmọde ba fi data ti ara ẹni silẹ, kan si wa — a yoo paarẹ.
+
+9. Imudojuiwọn ilana
+A le ṣe imudojuiwọn ilana yii ni igba diẹ. Gbogbo awọn ayipada ni ipa lẹhin itusilẹ ẹya tuntun ati ọjọ ibẹrẹ ti a ṣe imudojuiwọn. Awọn olumulo ni imọran lati ṣayẹwo ilana nigbagbogbo.
+
+10. Alaye olubasọrọ
+DR.IT.Studio
+Kyiv, Ukraine
+Imeeli: support@dr-it.studio
+
+11. Ifọwọsi olumulo
+Nipa lilo app Forest Calculator, o jẹrisi ifọwọsi rẹ si awọn ofin ilana asiri yii. Ti o ko ba fọwọsi — da lilo app duro.

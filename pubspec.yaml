@@ -1,0 +1,210 @@
+name: wood_volume_calculator
+description: A Flutter application for calculating wood volume.
+
+publish_to: 'none' 
+
+version: 1.1.11+14
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  excel: ^4.0.6
+  pdf: ^3.10.0
+  font_awesome_flutter: ^10.4.0
+  shared_preferences: ^2.0.15
+  sqflite: ^2.0.0+4
+  path: ^1.8.3
+  path_provider: ^2.1.2
+  permission_handler: ^12.0.0+1
+  file_picker: ^10.1.2
+  share_plus: ^7.0.0
+  easy_localization: ^3.0.3
+  printing: ^5.12.0
+  image_picker: ^1.0.0
+  flutter_markdown: ^0.6.18
+  webview_flutter_android: ^3.14.0
+  auto_size_text: ^3.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_native_splash: ^2.4.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/Roboto-Regular.ttf
+    - assets/ru.json
+    - assets/uk.json
+    - assets/en.json
+    - assets/fr.json
+    - assets/it.json
+    - assets/de.json
+    - assets/es.json
+    - assets/jp.json
+    - assets/pl.json
+    - assets/zh-CN.json
+    - assets/ar.json
+    - assets/tr.json
+    - assets/pt.json
+    - assets/ko.json
+    - assets/id.json
+    - assets/af.json
+    - assets/th.json
+    - assets/vi.json
+    - assets/hu.json
+    - assets/zh-TW.json
+    - assets/fa.json
+    - assets/az.json
+    - assets/bg.json
+    - assets/be.json
+    - assets/cs.json
+    - assets/da.json
+    - assets/et.json
+    - assets/fil.json
+    - assets/gb.json
+    - assets/he.json
+    - assets/hr.json
+    - assets/hy.json
+    - assets/ka.json
+    - assets/kn.json
+    - assets/lb.json
+    - assets/bn.json
+    - assets/lv.json
+    - assets/mk.json
+    - assets/ml.json
+    - assets/bs.json
+    - assets/nl.json
+    - assets/cy.json
+    - assets/ga.json
+    - assets/gu.json
+    - assets/ha.json
+    - assets/ig.json
+    - assets/ne.json
+    - assets/mn.json
+    - assets/mt.json
+    - assets/pa.json
+    - assets/sk.json
+    - assets/ro.json
+    - assets/si.json
+    - assets/sl.json
+    - assets/sr.json
+    - assets/sv.json
+    - assets/ta.json
+    - assets/te.json
+    - assets/tg.json
+    - assets/uz.json
+    - assets/yo.json
+    - assets/zu.json
+    - assets/sq.json
+    - assets/sw.json
+    - assets/tk.json
+    - assets/ur.json
+    - assets/no.json
+    - assets/ms.json
+    - assets/hi.json
+    - assets/fi.json
+    - assets/en-GB.json
+    - assets/pt-BR.json
+    - assets/fr-CA.json
+    - assets/es-MX.json
+    - assets/zh-HK.json
+
+    - assets/policy/privacy_policy_hi.txt
+    - assets/policy/privacy_policy_fi.txt
+    - assets/policy/privacy_policy_en-GB.txt
+    - assets/policy/privacy_policy_pt-BR.txt
+    - assets/policy/privacy_policy_fr-CA.txt
+    - assets/policy/privacy_policy_es-MX.txt
+    - assets/policy/privacy_policy_zh-HK.txt
+    - assets/policy/privacy_policy_en.txt
+    - assets/policy/privacy_policy_ru.txt
+    - assets/policy/privacy_policy_uk.txt
+    - assets/policy/privacy_policy_fr.txt
+    - assets/policy/privacy_policy_de.txt
+    - assets/policy/privacy_policy_es.txt
+    - assets/policy/privacy_policy_it.txt
+    - assets/policy/privacy_policy_pl.txt
+    - assets/policy/privacy_policy_jp.txt
+    - assets/policy/privacy_policy_zh-CN.txt
+    - assets/policy/privacy_policy_ar.txt
+    - assets/policy/privacy_policy_tr.txt
+    - assets/policy/privacy_policy_pt.txt
+    - assets/policy/privacy_policy_ko.txt
+    - assets/policy/privacy_policy_id.txt
+    - assets/policy/privacy_policy_vi.txt
+    - assets/policy/privacy_policy_th.txt
+    - assets/policy/privacy_policy_hu.txt
+    - assets/policy/privacy_policy_zh-TW.txt
+    - assets/policy/privacy_policy_fa.txt
+    - assets/policy/privacy_policy_af.txt
+    - assets/policy/privacy_policy_am.txt
+    - assets/policy/privacy_policy_bg.txt
+    - assets/policy/privacy_policy_bn.txt
+    - assets/policy/privacy_policy_az.txt
+    - assets/policy/privacy_policy_cs.txt
+    - assets/policy/privacy_policy_da.txt
+    - assets/policy/privacy_policy_et.txt
+    - assets/policy/privacy_policy_fil.txt
+    - assets/policy/privacy_policy_gb.txt
+    - assets/policy/privacy_policy_he.txt
+    - assets/policy/privacy_policy_hr.txt
+    - assets/policy/privacy_policy_hy.txt
+    - assets/policy/privacy_policy_ka.txt
+    - assets/policy/privacy_policy_kn.txt
+    - assets/policy/privacy_policy_be.txt
+    - assets/policy/privacy_policy_lt.txt
+    - assets/policy/privacy_policy_lv.txt
+    - assets/policy/privacy_policy_mk.txt
+    - assets/policy/privacy_policy_ms.txt
+    - assets/policy/privacy_policy_bs.txt
+    - assets/policy/privacy_policy_nl.txt
+    - assets/policy/privacy_policy_cy.txt
+    - assets/policy/privacy_policy_ga.txt
+    - assets/policy/privacy_policy_gu.txt
+    - assets/policy/privacy_policy_ha.txt
+    - assets/policy/privacy_policy_ig.txt
+    - assets/policy/privacy_policy_lb.txt
+    - assets/policy/privacy_policy_ml.txt
+    - assets/policy/privacy_policy_ne.txt
+    - assets/policy/privacy_policy_mn.txt
+    - assets/policy/privacy_policy_mt.txt
+    - assets/policy/privacy_policy_pa.txt
+    - assets/policy/privacy_policy_sk.txt
+    - assets/policy/privacy_policy_ro.txt
+    - assets/policy/privacy_policy_si.txt
+    - assets/policy/privacy_policy_sl.txt
+    - assets/policy/privacy_policy_sr.txt
+    - assets/policy/privacy_policy_sv.txt
+    - assets/policy/privacy_policy_ta.txt
+    - assets/policy/privacy_policy_te.txt
+    - assets/policy/privacy_policy_tg.txt
+    - assets/policy/privacy_policy_uz.txt
+    - assets/policy/privacy_policy_yo.txt
+    - assets/policy/privacy_policy_zu.txt
+    - assets/policy/privacy_policy_sq.txt
+    - assets/policy/privacy_policy_sw.txt
+    - assets/policy/privacy_policy_tk.txt
+    - assets/policy/privacy_policy_ur.txt
+    - assets/policy/privacy_policy_no.txt
+
+
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/splash.png
+  fullscreen: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"

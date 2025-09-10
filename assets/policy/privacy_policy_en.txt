@@ -1,0 +1,105 @@
+🛡️ Privacy Policy
+
+Effective Date: 6 May 2025
+App Name: Forest Calculator
+Developer: DR.IT.Studio
+Location: Kyiv, Ukraine
+Contact: support@dr-it.studio
+
+1. Introduction
+The Forest Calculator app, developed by DR.IT.Studio ("we"), is designed for calculating wood volume and other professional functions.
+This Privacy Policy explains what data we collect, how we use, store, protect, and transfer it, including information about advertising and paid subscriptions.
+The app is distributed via Huawei AppGallery, and all advertising and subscription features comply with Huawei requirements.
+
+2. What Data We Collect
+
+2.1 Personal Information
+We do not collect personal data automatically. The user may voluntarily provide:
+- email address when contacting support;
+- content and parameters entered manually in the app (calculations, notes).
+
+2.2 Non-Personal (Technical) Information
+For diagnostics, service improvement, and advertising, we may collect anonymous data such as:
+- device type and OS version;
+- interface language;
+- frequency and method of using app features;
+- error data (crash logs);
+- device advertising identifier (OAID or Advertising ID).
+
+3. Permissions and Device Access
+
+Permission                  Purpose
+Storage Access               Saving and opening files (PDF, Excel, etc.)
+Internet                     Updates, advertising, sending emails
+Sharing with other apps      Exporting calculations via messengers and email
+List of installed apps (optional) To show available export methods
+
+We do not use permissions to track activities in other apps.
+
+4. Advertising and Third-Party Services
+
+4.1 General Information
+The app may display personalized or non-personalized ads via third-party ad networks, including:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+The user selects the ad type on first launch and can change it in the app settings.
+
+4.2 Rewarded Advertising (Rewarded Video)
+- The user voluntarily watches a video to access certain features (e.g., premium tools).
+- Watching rewarded ads is always optional.
+- Before showing the ad, the user receives a clear explanation of the feature they will get.
+- The reward is provided only after the ad is watched in full.
+
+4.3 Technologies Used by Third-Party Services
+Third-party ad networks may use:
+- advertising identifiers;
+- cookies or similar technologies;
+- aggregated data for personalized advertising.
+
+Ad network policies:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Paid Features and Subscriptions
+The app may offer:
+- advanced calculation methods;
+- export to PDF, Excel;
+- ad removal;
+- premium access (subscription or one-time).
+
+All payments are processed via Huawei In-App Purchases or Google Play.
+If the app is installed via Huawei AppGallery, all purchases are processed via Huawei IAP. Links to Google Play are only relevant for versions distributed via Google Play.
+
+We do not store or process bank card data.
+
+6. Control Over Your Data
+You can:
+- delete saved data in the app or Android;
+- revoke permissions in device settings;
+- disable ads by purchasing the relevant feature;
+- change consent for personalized advertising;
+- request deletion of voluntarily provided data by writing to support@dr-it.studio.
+
+7. Security
+- The app does not transmit user data to remote servers without consent.
+- All calculations and documents are stored locally.
+- It is recommended to use screen lock and other device protection measures.
+
+8. Children's Privacy
+The app is not intended for children under 13 and does not collect their data. If a child has provided personal data, please contact us — we will delete it.
+
+9. Policy Updates
+We may periodically update this Policy. All changes take effect upon publication of the new version with the updated effective date. Users are encouraged to check the policy regularly for updates.
+
+10. Contact Information
+DR.IT.Studio
+Kyiv, Ukraine
+Email: support@dr-it.studio
+
+11. User Consent
+By using the Forest Calculator app, you confirm your consent to the terms of this Privacy Policy. If you do not agree — stop using the app.

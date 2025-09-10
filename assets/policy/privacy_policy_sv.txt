@@ -1,0 +1,105 @@
+🛡️ Integritetspolicy
+
+Ikraftträdandedatum: 6 maj 2025
+Appnamn: Forest Calculator
+Utvecklare: DR.IT.Studio
+Plats: Kyiv, Ukraina
+Kontakt: support@dr-it.studio
+
+1. Introduktion
+Appen Forest Calculator, utvecklad av DR.IT.Studio ("vi"), är utformad för beräkning av trävolym och andra professionella funktioner.
+Denna integritetspolicy förklarar vilka data vi samlar in, hur vi använder, lagrar, skyddar och överför dem, inklusive information om annonser och betalda prenumerationer.
+Appen distribueras via Huawei AppGallery och alla annons- och prenumerationsfunktioner uppfyller Huaweis krav.
+
+2. Vilka data vi samlar in
+
+2.1 Personuppgifter
+Vi samlar inte in personuppgifter automatiskt. Användaren kan frivilligt lämna:
+- e-postadress vid kontakt med support;
+- innehåll och parametrar som manuellt matas in i appen (beräkningar, anteckningar).
+
+2.2 Icke-personliga (tekniska) data
+För diagnostik, tjänsteförbättring och annonsering kan vi samla in anonym data såsom:
+- enhetstyp och OS-version;
+- gränssnittsspråk;
+- frekvens och sätt att använda appfunktioner;
+- feldata (crash logs);
+- enhetens annonsidentifierare (OAID eller Advertising ID).
+
+3. Behörigheter och enhetsåtkomst
+
+Behörighet                  Syfte
+Lagringsåtkomst             Spara och öppna filer (PDF, Excel, etc.)
+Internet                    Uppdateringar, annonser, skicka e-post
+Dela med andra appar        Exportera beräkningar via messenger och e-post
+Lista över installerade appar (valfritt) Visa tillgängliga exportmetoder
+
+Vi använder inte behörigheter för att spåra aktiviteter i andra appar.
+
+4. Annonser och tredjepartstjänster
+
+4.1 Allmän information
+Appen kan visa personliga eller icke-personliga annonser via tredjeparts annonsnätverk, inklusive:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Användaren väljer annonskategori vid första användning och kan ändra detta i appinställningarna.
+
+4.2 Belönade annonser (Rewarded Video)
+- Användaren tittar frivilligt på en video för att få tillgång till vissa funktioner (t.ex. premiumverktyg).
+- Att titta på belönade annonser är alltid frivilligt.
+- Innan annonsen visas får användaren en tydlig förklaring av funktionen som erhålls.
+- Belöningen ges endast efter att annonsen har setts i sin helhet.
+
+4.3 Teknik som används av tredjepartstjänster
+Tredjeparts annonsnätverk kan använda:
+- annonsidentifierare;
+- cookies eller liknande teknik;
+- aggregerad data för personliga annonser.
+
+Annonsnätverkspolicy:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Betalda funktioner och prenumerationer
+Appen kan erbjuda:
+- avancerade beräkningsmetoder;
+- export till PDF, Excel;
+- borttagning av annonser;
+- premiumåtkomst (prenumeration eller engångsköp).
+
+Alla betalningar behandlas via Huawei In-App Purchases eller Google Play.
+Om appen har installerats via Huawei AppGallery behandlas alla köp via Huawei IAP. Google Play-länkar är endast relevanta för versioner som distribueras via Google Play.
+
+Vi lagrar eller behandlar inte bankkortdata.
+
+6. Kontroll över dina data
+Du kan:
+- ta bort sparad data i appen eller på Android;
+- återkalla behörigheter i enhetsinställningarna;
+- inaktivera annonser genom att köpa relevant funktion;
+- ändra samtycke för personliga annonser;
+- begära radering av frivilligt lämnade data genom att skriva till support@dr-it.studio.
+
+7. Säkerhet
+- Appen skickar inte användardata till externa servrar utan samtycke.
+- Alla beräkningar och dokument lagras lokalt.
+- Det rekommenderas att använda skärmlås och andra säkerhetsåtgärder för enheten.
+
+8. Barns integritet
+Appen är inte avsedd för barn under 13 år och samlar inte in deras data. Om ett barn har lämnat personuppgifter, kontakta oss — vi tar bort dem.
+
+9. Policyuppdateringar
+Vi kan uppdatera denna policy periodiskt. Alla ändringar träder i kraft efter publicering av den nya versionen och uppdaterat ikraftträdandedatum. Användare rekommenderas att kontrollera policyn regelbundet.
+
+10. Kontaktinformation
+DR.IT.Studio
+Kyiv, Ukraina
+E-post: support@dr-it.studio
+
+11. Användarens samtycke
+Genom att använda Forest Calculator-appen bekräftar du ditt samtycke till villkoren i denna integritetspolicy. Om du inte samtycker — sluta använda appen.

@@ -1,0 +1,105 @@
+🛡️ Adatvédelmi irányelvek
+
+Hatályos: 2025. május 6.
+Alkalmazás neve: Forest Calculator
+Fejlesztő: DR.IT.Studio
+Helyszín: Kijev, Ukrajna
+Kapcsolat: support@dr-it.studio
+
+1. Bevezetés
+A Forest Calculator alkalmazást a DR.IT.Studio ("mi") fejlesztette, fa térfogatának számítására és egyéb szakmai funkciókra.
+Ez az adatvédelmi irányelv elmagyarázza, milyen adatokat gyűjtünk, hogyan használjuk, tároljuk, védjük és továbbítjuk azokat, beleértve a hirdetéseket és a fizetős előfizetéseket.
+Az alkalmazás a Huawei AppGallery-n keresztül terjesztett, és minden hirdetési és előfizetési funkció megfelel a Huawei követelményeinek.
+
+2. Milyen adatokat gyűjtünk
+
+2.1 Személyes adatok
+Személyes adatokat nem gyűjtünk automatikusan. A felhasználó önkéntesen megadhatja:
+- e-mail címet támogatás igénylésekor;
+- manuálisan bevitt tartalmat és paramétereket az alkalmazásban (számítások, jegyzetek).
+
+2.2 Nem személyes (technikai) adatok
+Diagnosztika, szolgáltatásfejlesztés és hirdetés céljából anonim adatokat gyűjthetünk, például:
+- eszköztípus és operációs rendszer verziója;
+- felület nyelve;
+- az alkalmazás funkcióinak használatának gyakorisága és módja;
+- hibák adatai (crash logs);
+- eszköz hirdetési azonosítója (OAID vagy Advertising ID).
+
+3. Jogosultságok és eszközhozzáférés
+
+Jogosultság                  Cél
+Tárhelyhozzáférés            Fájlok mentése és megnyitása (PDF, Excel stb.)
+Internet                     Frissítések, hirdetések, e-mailek küldése
+Megosztás más alkalmazásokkal Számítások exportálása üzenetküldőn és e-mailen keresztül
+Telepített alkalmazások listája (opcionális) Elérhető exportálási módok megjelenítése
+
+Nem használjuk a jogosultságokat más alkalmazások tevékenységének nyomon követésére.
+
+4. Hirdetések és harmadik fél szolgáltatásai
+
+4.1 Általános információk
+Az alkalmazás személyre szabott vagy nem személyre szabott hirdetéseket jeleníthet meg harmadik fél hirdetési hálózatokon keresztül, például:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+A felhasználó az első használatkor választja ki a hirdetéstípust, és az alkalmazás beállításaiban módosíthatja.
+
+4.2 Jutalmazott hirdetések (Rewarded Video)
+- A felhasználó önként néz meg videót bizonyos funkciók eléréséhez (pl. prémium eszközök).
+- A jutalmazott hirdetések megtekintése mindig opcionális.
+- A hirdetés megjelenítése előtt a felhasználó világos magyarázatot kap a megszerezhető funkcióról.
+- Jutalom csak a hirdetés teljes megtekintése után jár.
+
+4.3 Harmadik fél szolgáltatások által használt technológiák
+A harmadik fél hirdetési hálózatok használhatnak:
+- hirdetési azonosítókat;
+- sütiket vagy hasonló technológiákat;
+- aggregált adatokat személyre szabott hirdetésekhez.
+
+Hirdetési hálózatok irányelvei:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Fizetős funkciók és előfizetések
+Az alkalmazás kínálhat:
+- fejlett számítási módszereket;
+- exportálást PDF-be, Excelbe;
+- hirdetések eltávolítását;
+- prémium hozzáférést (előfizetés vagy egyszeri).
+
+Minden fizetés a Huawei In-App Purchases vagy a Google Play-en keresztül történik.
+Ha az alkalmazás a Huawei AppGallery-n keresztül van telepítve, minden vásárlás a Huawei IAP-on keresztül történik. A Google Play linkek csak a Google Play-en terjesztett verziókra vonatkoznak.
+
+Nem tárolunk vagy dolgozunk fel bankkártya adatokat.
+
+6. Az adatok feletti ellenőrzés
+Ön:
+- törölheti a mentett adatokat az alkalmazásban vagy Androidon;
+- visszavonhatja a jogosultságokat az eszköz beállításaiban;
+- letilthatja a hirdetéseket a megfelelő funkció megvásárlásával;
+- módosíthatja a személyre szabott hirdetésekhez adott hozzájárulást;
+- kérheti az önként megadott adatok törlését a support@dr-it.studio címre írva.
+
+7. Biztonság
+- Az alkalmazás nem továbbítja a felhasználói adatokat külső szerverekre hozzájárulás nélkül.
+- Minden számítás és dokumentum helyben tárolódik.
+- Ajánlott a képernyőzár és egyéb eszközvédelmi intézkedések használata.
+
+8. Gyermekek adatvédelme
+Az alkalmazás nem 13 év alatti gyermekeknek készült, és nem gyűjti az adataikat. Ha gyermek adott meg személyes adatokat, lépjen kapcsolatba velünk — töröljük azokat.
+
+9. Irányelv frissítések
+Az irányelvet időről időre frissíthetjük. Minden változás az új verzió közzétételével és a frissített hatálybalépési dátummal lép életbe. Javasoljuk, hogy a felhasználók rendszeresen ellenőrizzék az irányelvet.
+
+10. Kapcsolat
+DR.IT.Studio
+Kijev, Ukrajna
+E-mail: support@dr-it.studio
+
+11. Felhasználói hozzájárulás
+A Forest Calculator alkalmazás használatával Ön megerősíti, hogy elfogadja ezen adatvédelmi irányelv feltételeit. Ha nem ért egyet — hagyja abba az alkalmazás használatát.

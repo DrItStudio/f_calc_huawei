@@ -1,0 +1,106 @@
+🛡️ Məxfilik Siyasəti
+
+Qüvvəyə minmə tarixi: 6 may 2025
+Tətbiqin adı: Forest Calculator
+Tərtibatçı: DR.IT.Studio
+Yerləşmə: Ukrayna, Kiyev
+Əlaqə: support@dr-it.studio
+
+1. Giriş
+Forest Calculator tətbiqi DR.IT.Studio tərəfindən hazırlanıb və ağac həcminin hesablanması və digər peşəkar funksiyalar üçün nəzərdə tutulub.
+Bu Məxfilik Siyasəti hansı məlumatları topladığımızı, necə istifadə, saxlamaq, qorumaq və ötürmək yollarını, o cümlədən reklam və ödənişli abunəliklər barədə məlumatı izah edir.
+Tətbiq Huawei AppGallery vasitəsilə yayılır və bütün reklam və abunəlik funksiyaları Huawei tələblərinə uyğundur.
+
+2. Topladığımız məlumatlar
+
+2.1 Şəxsi məlumatlar
+Şəxsi məlumatları avtomatik toplamırıq. İstifadəçi könüllü olaraq təqdim edə bilər:
+- dəstəyə müraciət edərkən e-poçt ünvanı;
+- tətbiqdə əl ilə daxil edilən məzmun və parametrlər (hesablamalar, qeydlər).
+
+2.2 Şəxsi olmayan (texniki) məlumatlar
+Diaqnostika, xidmətin yaxşılaşdırılması və reklam məqsədləri üçün anonim məlumatlar toplaya bilərik:
+- cihaz tipi və OS versiyası;
+- interfeys dili;
+- tətbiq funksiyalarının istifadə tezliyi və üsulu;
+- səhv məlumatları (crash logs);
+- cihazın reklam identifikatoru (OAID və ya Advertising ID).
+
+3. İcazələr və cihaz girişi
+
+İcazə                  Məqsəd
+Yaddaşa giriş           Faylların saxlanması və açılması (PDF, Excel və s.)
+İnternet                Yeniləmələr, reklamların göstərilməsi, e-poçt göndərilməsi
+Digər tətbiqlərlə paylaşma Hesablamaların messencer və e-poçt vasitəsilə ixracı
+Quraşdırılmış tətbiqlərin siyahısı (isteğe bağlı) Mövcud ixrac üsullarının göstərilməsi üçün
+
+İcazələrdən digər tətbiqlərdəki fəaliyyətləri izləmək üçün istifadə etmirik.
+
+4. Reklam və üçüncü tərəf xidmətləri
+
+4.1 Ümumi məlumat
+Tətbiq üçüncü tərəf reklam şəbəkələri vasitəsilə fərdiləşdirilmiş və ya fərdiləşdirilməmiş reklamlar göstərə bilər, o cümlədən:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+İstifadəçi reklam növünü ilk istifadədə seçir və tətbiq ayarlarında dəyişə bilər.
+
+4.2 Mükafatlı reklamlar (Rewarded Video)
+- İstifadəçi müəyyən funksiyalara (məsələn, premium alətlər) giriş əldə etmək üçün videonu könüllü olaraq izləyir.
+- Mükafatlı reklamların izlənməsi həmişə isteğe bağlıdır.
+- Reklamdan əvvəl istifadəçiyə hansı funksiyanı əldə edəcəyi aydın şəkildə izah edilir.
+- Mükafat yalnız reklam tam izlənildikdən sonra verilir.
+
+4.3 Üçüncü tərəf xidmətlərinin texnologiyaları
+Üçüncü tərəf reklam şəbəkələri istifadə edə bilər:
+- reklam identifikatorları;
+- kukilər və ya oxşar texnologiyalar;
+- fərdiləşdirilmiş reklamların göstərilməsi üçün birləşdirilmiş məlumatlar.
+
+Reklam şəbəkələrinin siyasətləri:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Ödənişli funksiyalar və abunəliklər
+Tətbiq təklif edə bilər:
+- genişləndirilmiş hesablamalar;
+- PDF, Excel-ə ixrac;
+- reklamların deaktiv edilməsi;
+- premium giriş (abunəlik və ya birdəfəlik).
+
+Bütün ödənişlər Huawei In-App Purchases və ya Google Play vasitəsilə həyata keçirilir.
+Tətbiq Huawei AppGallery vasitəsilə quraşdırılıbsa, bütün alışlar Huawei IAP vasitəsilə həyata keçirilir. Google Play linkləri yalnız Google Play vasitəsilə yayılan versiyalar üçün aktualdır.
+
+Bank kartı məlumatlarını saxlamır və emal etmirik.
+
+6. Məlumatlarınız üzərində nəzarət
+Siz:
+- tətbiqdə və ya Android-də saxlanılan məlumatları silə bilərsiniz;
+- cihaz ayarlarında icazələri ləğv edə bilərsiniz;
+- müvafiq funksiyanı alaraq reklamları deaktiv edə bilərsiniz;
+- fərdiləşdirilmiş reklamların göstərilməsinə razılığı dəyişə bilərsiniz;
+- könüllü təqdim edilmiş məlumatların silinməsini support@dr-it.studio ünvanına yazmaqla tələb edə bilərsiniz.
+
+7. Təhlükəsizlik
+- Tətbiq istifadəçi məlumatlarını razılıq olmadan xarici serverlərə göndərmir.
+- Bütün hesablamalar və sənədlər lokal saxlanılır.
+- Ekran kilidi və digər cihaz qoruma vasitələrindən istifadə tövsiyə olunur.
+
+8. Uşaqların məxfiliyi
+Tətbiq 13 yaşdan kiçik uşaqlar üçün nəzərdə tutulmayıb və onların məlumatlarını toplamır. Əgər uşaq şəxsi məlumat veribsə, bizimlə əlaqə saxlayın — biz onu siləcəyik.
+
+9. Siyasətin yenilənməsi
+Bu siyasəti dövri olaraq yeniləyə bilərik. Bütün dəyişikliklər yeni versiyanın dərc edilməsi və qüvvəyə minmə tarixi ilə qüvvəyə minir. İstifadəçilərə siyasətin aktuallığını mütəmadi yoxlamaq tövsiyə olunur.
+
+10. Əlaqə məlumatı
+DR.IT.Studio
+Kiyev, Ukrayna
+Email: support@dr-it.studio
+
+11. İstifadəçi razılığı
+Forest Calculator tətbiqindən istifadə etməklə, bu Məxfilik Siyasətinin şərtləri ilə razı olduğunuzu təsdiqləyirsiniz. Razı deyilsinizsə — tətbiqdən istifadəni dayandırın.
+

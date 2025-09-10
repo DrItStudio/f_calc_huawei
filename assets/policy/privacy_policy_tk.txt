@@ -1,0 +1,105 @@
+🛡️ Gizlinlik syýasaty
+
+Güýje girýän senesi: 2025-nji ýylyň 6-njy maýy
+Programma ady: Forest Calculator
+Dörediji: DR.IT.Studio
+Ýerleşýän ýeri: Kiýew, Ukraina
+Habarlaşmak: support@dr-it.studio
+
+1. Giriş
+Forest Calculator programmasy, DR.IT.Studio ("biz") tarapyndan işlenip düzülen, agaç mukdaryny hasaplamak we beýleki hünär funksiýalary üçin niýetlenendir.
+Bu gizlinlik syýasaty biz nähili maglumatlary ýygnap alýarys, nädip ulanýarys, saklaýarys, gorap we geçirýäris, şol sanda reklamalar we tölegli abuna maglumatlary hem bar.
+Programma Huawei AppGallery arkaly paýlanýar we ähli reklamalar hem-de abuna aýratynlyklary Huawei talaplaryna laýyk gelýär.
+
+2. Biz nähili maglumatlary ýygnap alýarys
+
+2.1 Şahsy maglumatlar
+Biz şahsy maglumatlary awtomatiki ýygnamaýarys. Ulanyjy meýletin görnüşde berip biler:
+- goldaw bilen habarlaşanda e-poçta salgysy;
+- programmada el bilen girizilen mazmun we parametrler (hasaplamalar, bellikler).
+
+2.2 Şahsy däl (tehniki) maglumatlar
+Diagnostika, hyzmaty gowulandyrmak we reklamalar üçin biz näbelli maglumatlary ýygnap bileris, mysal üçin:
+- enjamyň görnüşi we OS wersiýasy;
+- interfeýs dili;
+- programmanyň aýratynlyklaryny ulanmagyň ýygylygy we usuly;
+- ýalňyşlyk maglumatlary (crash logs);
+- enjamyň reklamalar ID-si (OAID ýa-da Advertising ID).
+
+3. Rugsatlar we enjam elýeterliligi
+
+Rugsat                  Maksat
+Saklaýyş elýeterliligi   Faýllary saklamak we açmak (PDF, Excel, we ş.m.)
+Internet                 Täzelenmeler, reklamalar, e-poçta ibermek
+Beýleki programmalara paýlaşmak Hasaplamalary messenger we e-poçta arkaly eksport etmek
+Gurnalan programmalar sanawy (islege bagly) Elýeterli eksport usullaryny görkezmek
+
+Biz rugsatlary beýleki programmalarda işjeňligi yzarlamak üçin ulanmaýarys.
+
+4. Reklamalar we üçünji tarap hyzmatlary
+
+4.1 Umumy maglumat
+Programma üçünji tarap reklamalar ulgamlary arkaly şahsy ýa-da şahsy däl reklamalary görkezýär, şol sanda:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Ulanyjy ilkinji ulanylanda reklamanyň görnüşini saýlaýar we programmanyň sazlamalarynda üýtgedip biler.
+
+4.2 Sylagly reklamalar (Rewarded Video)
+- Ulanyjy meýletin görnüşde wideo görýär, käbir aýratynlyklara (mysal üçin, premium gurallar) elýeterlilik üçin.
+- Sylagly reklamalary görmek hemişe islege baglydyr.
+- Reklama görkezilmezden öň, ulanyjy aljak aýratynlygy barada anyk düşündiriş alýar.
+- Sylag diňe reklamany doly görenden soň berilýär.
+
+4.3 Üçünji tarap hyzmatlary tarapyndan ulanylýan tehnologiýalar
+Üçünji tarap reklamalar ulgamlary ulanyp biler:
+- reklamalar ID-leri;
+- cookies ýa-da meňzeş tehnologiýalar;
+- şahsy reklamalar üçin jemlenen maglumatlar.
+
+Reklama ulgamlarynyň syýasatlary:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Tölegli aýratynlyklar we abunalar
+Programma hödürläp biler:
+- ösen hasaplama usullary;
+- PDF, Excel eksporty;
+- reklamalary aýyrmak;
+- premium elýeterlilik (abuna ýa-da bir gezeklik satyn alma).
+
+Ähli tölegler Huawei In-App Purchases ýa-da Google Play arkaly amala aşyrylýar.
+Programma Huawei AppGallery arkaly gurnalan bolsa, ähli satyn almalary Huawei IAP arkaly amala aşyrylýar. Google Play baglanyşyklary diňe Google Play arkaly paýlanýan wersiýalar üçin degişli.
+
+Biz bank kart maglumatlaryny saklamaýarys ýa-da işlemýäris.
+
+6. Maglumatlaryňyza gözegçilik
+Siz:
+- programmada ýa-da Androidde saklanan maglumatlary pozup bilersiňiz;
+- enjam sazlamalarynda rugsatlary yzyna alyp bilersiňiz;
+- degişli aýratynlygy satyn alyp reklamalary öçürip bilersiňiz;
+- şahsy reklamalar üçin razylygy üýtgedip bilersiňiz;
+- meýletin berlen maglumatlary pozmak üçin support@dr-it.studio-a ýazyp haýyş edip bilersiňiz.
+
+7. Howpsuzlyk
+- Programma ulanyjy maglumatlaryny rugsatsyz uzakdaky serwerlere ibermeýär.
+- Ähli hasaplamalar we resminamalar ýerli saklanýar.
+- Ekran gulpy we beýleki enjam howpsuzlyk çärelerini ulanmak maslahat berilýär.
+
+8. Çagalaryň gizlinligi
+Programma 13 ýaşdan kiçi çagalar üçin niýetlenilmedik we olaryň maglumatlaryny ýygnamaýar. Çaga şahsy maglumat berse, bize ýüz tutuň — biz ony pozarys.
+
+9. Syýasaty täzelikler
+Biz bu syýasaty wagtal-wagtal täzeläp bileris. Ähli üýtgeşmeler täze wersiýa çap edilenden we täzelenen güýje girýän seneden soň güýje girýär. Ulanyjylara syýasaty yzygiderli barlamak maslahat berilýär.
+
+10. Habarlaşmak üçin maglumat
+DR.IT.Studio
+Kiýew, Ukraina
+E-poçta: support@dr-it.studio
+
+11. Ulanyjy razylygy
+Forest Calculator programmasyny ulanyp, siz bu gizlinlik syýasatynyň şertlerine razylygyňyzy tassyklaýarsyňyz. Razy däl bolsaňyz — programmany ulanmagy bes ediň.

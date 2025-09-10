@@ -1,0 +1,106 @@
+🛡️ Sera ya Faragha
+
+Tarehe ya kuanza kutumika: 6 Mei 2025
+Jina la programu: Forest Calculator
+Msanidi: DR.IT.Studio
+Mahali: Kyiv, Ukraine
+Mawasiliano: support@dr-it.studio
+
+1. Utangulizi
+Programu ya Forest Calculator, iliyotengenezwa na DR.IT.Studio ("sisi"), imeundwa kwa ajili ya kuhesabu kiasi cha mbao na kazi nyingine za kitaalamu.
+Sera hii ya faragha inaeleza ni data gani tunakusanya, jinsi tunavyotumia, kuhifadhi, kulinda na kuhamisha, ikijumuisha taarifa kuhusu matangazo na usajili wa kulipia.
+Programu inasambazwa kupitia Huawei AppGallery na vipengele vyote vya matangazo na usajili vinakidhi mahitaji ya Huawei.
+
+2. Data tunayokusanya
+
+2.1 Data ya kibinafsi
+Hatukusanyi data ya kibinafsi kiotomatiki. Mtumiaji anaweza kutoa kwa hiari:
+- anwani ya barua pepe anapowasiliana na msaada;
+- maudhui na vigezo vilivyoingizwa kwa mkono kwenye programu (mahesabu, maelezo).
+
+2.2 Data isiyo ya kibinafsi (ya kiufundi)
+Kwa uchunguzi, kuboresha huduma na matangazo, tunaweza kukusanya data isiyojulikana kama:
+- aina ya kifaa na toleo la OS;
+- lugha ya kiolesura;
+- marudio na njia ya kutumia vipengele vya programu;
+- data ya makosa (crash logs);
+- kitambulisho cha matangazo cha kifaa (OAID au Advertising ID).
+
+3. Ruhusa na ufikiaji wa kifaa
+
+Ruhusa                  Kusudi
+Ufikiaji wa hifadhi      Kuhifadhi na kufungua faili (PDF, Excel, n.k.)
+Intaneti                Sasisho, matangazo, kutuma barua pepe
+Kushiriki na programu nyingine Kusafirisha mahesabu kupitia messenger na barua pepe
+Orodha ya programu zilizowekwa (hiari) Kuonyesha njia zinazopatikana za kusafirisha
+
+Hatutumii ruhusa kufuatilia shughuli kwenye programu nyingine.
+
+4. Matangazo na huduma za wahusika wengine
+
+4.1 Taarifa za jumla
+Programu inaweza kuonyesha matangazo ya kibinafsi au yasiyo ya kibinafsi kupitia mitandao ya matangazo ya wahusika wengine, ikijumuisha:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Mtumiaji huchagua aina ya matangazo kwenye matumizi ya kwanza na anaweza kubadilisha katika mipangilio ya programu.
+
+4.2 Matangazo ya tuzo (Rewarded Video)
+- Mtumiaji hutazama video kwa hiari ili kupata ufikiaji wa vipengele fulani (mfano, zana za premium).
+- Kutazama matangazo ya tuzo ni hiari kila wakati.
+- Kabla ya kuonyesha tangazo, mtumiaji hupata maelezo wazi kuhusu kipengele atakachopata.
+- Tuzo hutolewa tu baada ya kutazama tangazo lote.
+
+4.3 Teknolojia zinazotumiwa na huduma za wahusika wengine
+Mitandao ya matangazo ya wahusika wengine inaweza kutumia:
+- vitambulisho vya matangazo;
+- cookies au teknolojia zinazofanana;
+- data iliyojumlishwa kwa matangazo ya kibinafsi.
+
+Sera za mitandao ya matangazo:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Vipengele vya kulipia na usajili
+Programu inaweza kutoa:
+- mbinu za juu za mahesabu;
+- kusafirisha hadi PDF, Excel;
+- kuondoa matangazo;
+- ufikiaji wa premium (usajili au ununuzi wa mara moja).
+
+Malipo yote yanashughulikiwa kupitia Huawei In-App Purchases au Google Play.
+Ikiwa programu imesakinishwa kupitia Huawei AppGallery, ununuzi wote unashughulikiwa kupitia Huawei IAP. Viungo vya Google Play ni muhimu tu kwa matoleo yanayosambazwa kupitia Google Play.
+
+Hatuhifadhi wala kushughulikia data ya kadi za benki.
+
+6. Udhibiti wa data yako
+Unaweza:
+- kufuta data iliyohifadhiwa kwenye programu au Android;
+- kufuta ruhusa kwenye mipangilio ya kifaa;
+- kuzima matangazo kwa kununua kipengele husika;
+- kubadilisha idhini ya matangazo ya kibinafsi;
+- kuomba kufutwa kwa data iliyotolewa kwa hiari kwa kuandika kwa support@dr-it.studio.
+
+7. Usalama
+- Programu haitumi data ya mtumiaji kwa seva za mbali bila idhini.
+- Mahesabu na hati zote huhifadhiwa ndani ya kifaa.
+- Inashauriwa kutumia kufuli ya skrini na hatua nyingine za usalama wa kifaa.
+
+8. Faragha ya watoto
+Programu haikusudiwi kwa watoto chini ya miaka 13 na haikusanyi data yao. Ikiwa mtoto atatoa data ya kibinafsi, wasiliana nasi — tutaifuta.
+
+9. Sasisho za sera
+Tunaweza kusasisha sera hii mara kwa mara. Mabadiliko yote yataanza kutumika baada ya kuchapishwa kwa toleo jipya na tarehe ya kuanza kutumika iliyosasishwa. Watumiaji wanashauriwa kuangalia sera mara kwa mara.
+
+10. Taarifa za mawasiliano
+DR.IT.Studio
+Kyiv, Ukraine
+Barua pepe: support@dr-it.studio
+
+11. Idhini ya mtumiaji
+Kwa kutumia programu ya Forest Calculator, unathibitisha idhini yako kwa masharti ya sera hii ya faragha. Ikiwa hukubali — acha kutumia programu.
+

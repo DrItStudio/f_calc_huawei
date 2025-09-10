@@ -1,0 +1,105 @@
+🛡️ Polisi Preifatrwydd
+
+Dyddiad dod i rym: 6 Mai 2025
+Enw'r ap: Forest Calculator
+Datblygwr: DR.IT.Studio
+Lleoliad: Kyiv, Wcrain
+Cyswllt: support@dr-it.studio
+
+1. Cyflwyniad
+Mae'r ap Forest Calculator, a ddatblygwyd gan DR.IT.Studio ("ni"), wedi'i gynllunio ar gyfer cyfrifo cyfaint pren a swyddogaethau proffesiynol eraill.
+Mae'r Polisi Preifatrwydd hwn yn egluro pa ddata rydym yn ei gasglu, sut rydym yn ei ddefnyddio, ei storio, ei ddiogelu a'i drosglwyddo, gan gynnwys gwybodaeth am hysbysebion a tanysgrifiadau taledig.
+Mae'r ap yn cael ei ddosbarthu trwy Huawei AppGallery, ac mae pob swyddogaeth hysbysebu a thanysgrifio yn cydymffurfio â gofynion Huawei.
+
+2. Pa ddata rydym yn ei gasglu
+
+2.1 Gwybodaeth bersonol
+Nid ydym yn casglu data personol yn awtomatig. Gall y defnyddiwr ddarparu:
+- cyfeiriad e-bost wrth gysylltu â chefnogaeth;
+- cynnwys a pharamedrau a fewnbynnir â llaw yn yr ap (cyfrifiadau, nodiadau).
+
+2.2 Gwybodaeth nad yw'n bersonol (technegol)
+At ddibenion diagnosis, gwella gwasanaeth a dangos hysbysebion, gallwn gasglu data dienw fel:
+- math o ddyfais a fersiwn OS;
+- iaith y rhyngwyneb;
+- amlder a dull o ddefnyddio swyddogaethau'r ap;
+- data gwallau (crash logs);
+- dynodwr hysbysebu'r ddyfais (OAID neu Advertising ID).
+
+3. Caniatâd a mynediad i'r ddyfais
+
+Caniatâd                  Pwrpas
+Mynediad i storfa           Cadw ac agor ffeiliau (PDF, Excel ac ati)
+Rhyngrwyd                   Diweddariadau, dangos hysbysebion, anfon e-byst
+Rhannu gyda apiau eraill    Allforio cyfrifiadau trwy negeseuwyr ac e-bost
+Rhestr o apiau wedi'u gosod (dewisol) Ar gyfer dangos dulliau allforio sydd ar gael
+
+Nid ydym yn defnyddio caniatâd i olrhain gweithgareddau mewn apiau eraill.
+
+4. Hysbysebion a gwasanaethau trydydd parti
+
+4.1 Gwybodaeth gyffredinol
+Gall yr ap ddangos hysbysebion personol neu heb eu personoli trwy rwydweithiau hysbysebu trydydd parti, gan gynnwys:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Mae'r defnyddiwr yn dewis math o hysbyseb wrth ddefnyddio am y tro cyntaf ac yn gallu ei newid yn y gosodiadau ap.
+
+4.2 Hysbysebion â gwobr (Rewarded Video)
+- Mae'r defnyddiwr yn gwylio fideo yn wirfoddol i gael mynediad at swyddogaethau penodol (e.e. offer premiwm).
+- Mae gwylio hysbysebion â gwobr bob amser yn ddewisol.
+- Cyn dangos hysbyseb, mae'r defnyddiwr yn cael eglurhad clir o'r swyddogaeth a gaiff.
+- Dim ond ar ôl gwylio'r hysbyseb yn llawn y caiff y wobr ei rhoi.
+
+4.3 Technolegau gwasanaethau trydydd parti
+Gall rhwydweithiau hysbysebu trydydd parti ddefnyddio:
+- dynodwyr hysbysebu;
+- cwcis neu dechnolegau tebyg;
+- data cyfunol ar gyfer dangos hysbysebion personol.
+
+Polisïau rhwydweithiau hysbysebu:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Nodweddion taledig a thanysgrifiadau
+Gall yr ap gynnig:
+- dulliau cyfrifo uwch;
+- allforio i PDF, Excel;
+- tynnu hysbysebion;
+- mynediad premiwm (tanysgrifiad neu un tro).
+
+Mae pob taliad yn cael ei brosesu trwy Huawei In-App Purchases neu Google Play.
+Os yw'r ap wedi'i osod trwy Huawei AppGallery, caiff pob pryniant ei brosesu trwy Huawei IAP. Mae dolenni i Google Play yn berthnasol i fersiynau a ddosberthir trwy Google Play yn unig.
+
+Nid ydym yn storio nac yn prosesu data cardiau banc.
+
+6. Rheolaeth dros eich data
+Gallwch:
+- dileu data wedi'i gadw yn yr ap neu Android;
+- tynnu caniatâd yn y gosodiadau dyfais;
+- analluogi hysbysebion trwy brynu'r nodwedd berthnasol;
+- newid caniatâd ar gyfer dangos hysbysebion personol;
+- gofyn am ddileu data a roddwyd yn wirfoddol drwy ysgrifennu at support@dr-it.studio.
+
+7. Diogelwch
+- Nid yw'r ap yn anfon data defnyddiwr i weinyddion allanol heb ganiatâd.
+- Cedwir pob cyfrifiad a dogfen yn lleol.
+- Argymhellir defnyddio cloi sgrin a dulliau diogelu dyfais eraill.
+
+8. Preifatrwydd plant
+Nid yw'r ap wedi'i gynllunio ar gyfer plant o dan 13 oed ac nid yw'n casglu eu data. Os bydd plentyn yn rhoi data personol, cysylltwch â ni — byddwn yn ei ddileu.
+
+9. Diweddariadau polisi
+Gallwn ddiweddaru'r Polisi hwn yn rheolaidd. Mae pob newid yn dod i rym ar ôl cyhoeddi fersiwn newydd gyda dyddiad dod i rym wedi'i ddiweddaru. Argymhellir i ddefnyddwyr wirio'r polisi yn rheolaidd.
+
+10. Gwybodaeth gyswllt
+DR.IT.Studio
+Kyiv, Wcrain
+E-bost: support@dr-it.studio
+
+11. Caniatâd defnyddiwr
+Drwy ddefnyddio'r ap Forest Calculator, rydych yn cadarnhau eich caniatâd i delerau'r Polisi Preifatrwydd hwn. Os nad ydych yn cytuno — peidiwch â defnyddio'r ap.

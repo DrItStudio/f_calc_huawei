@@ -1,0 +1,105 @@
+🛡️ Politika privatnosti
+
+Datum stupanja na snagu: 6. maj 2025.
+Naziv aplikacije: Forest Calculator
+Razvija: DR.IT.Studio
+Lokacija: Kijev, Ukrajina
+Kontakt: support@dr-it.studio
+
+1. Uvod
+Aplikacija Forest Calculator, razvijena od strane DR.IT.Studio ("mi", "nas", "naša"), namenjena je za izračunavanje zapremine drveta i druge profesionalne funkcije.
+Ova Politika privatnosti objašnjava koje podatke prikupljamo, kako ih koristimo, čuvamo, štitimo i delimo, uključujući informacije o reklamama i plaćenim pretplatama.
+Aplikacija se distribuira putem Huawei AppGallery, a sve funkcije reklama i pretplata su u skladu sa zahtevima Huawei.
+
+2. Podaci koje prikupljamo
+
+2.1 Lični podaci
+Ne prikupljamo lične podatke automatski. Korisnik može dobrovoljno da pruži:
+- adresu e-pošte prilikom kontaktiranja podrške;
+- sadržaj i parametre unete ručno u aplikaciji (proračuni, beleške).
+
+2.2 Neosobni (tehnički) podaci
+Za dijagnostiku, poboljšanje usluge i prikazivanje reklama možemo prikupljati anonimne podatke kao što su:
+- tip uređaja i verzija OS-a;
+- jezik interfejsa;
+- učestalost i način korišćenja funkcija aplikacije;
+- podaci o greškama (crash logovi);
+- reklamni identifikator uređaja (OAID ili Advertising ID).
+
+3. Dozvole i pristup uređaju
+
+Dozvola                  Svrha
+Pristup skladištu         Čuvanje i otvaranje fajlova (PDF, Excel i dr.)
+Internet                  Ažuriranja, prikazivanje reklama, slanje mejlova
+Deljenje sa drugim aplikacijama Izvoz proračuna putem mesindžera i emaila
+Spisak instaliranih aplikacija (opciono) Za prikaz dostupnih metoda izvoza
+
+Ne koristimo dozvole za praćenje aktivnosti u drugim aplikacijama.
+
+4. Reklame i usluge trećih strana
+
+4.1 Opšte informacije
+Aplikacija može prikazivati personalizovane ili nepersonalizovane reklame putem mreža trećih strana, uključujući:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Korisnik bira tip reklama pri prvom pokretanju i može ga promeniti u podešavanjima aplikacije.
+
+4.2 Reklame sa nagradom (Rewarded Video)
+- Korisnik dobrovoljno gleda video da bi dobio pristup određenim funkcijama (npr. premium alatima).
+- Gledanje reklama sa nagradom je uvek opciono.
+- Pre prikazivanja reklame korisnik dobija jasno objašnjenje koju funkciju dobija.
+- Nagrada se daje samo nakon potpunog gledanja reklame.
+
+4.3 Tehnologije trećih strana
+Mreže trećih strana mogu koristiti:
+- reklamne identifikatore;
+- kolačiće ili slične tehnologije;
+- agregirane podatke za prikazivanje personalizovanih reklama.
+
+Politike mreža reklama:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Plaćene funkcije i pretplate
+Aplikacija može nuditi:
+- napredne metode proračuna;
+- izvoz u PDF, Excel;
+- uklanjanje reklama;
+- premium pristup (pretplata ili jednokratno).
+
+Sve uplate se obrađuju putem Huawei In-App Purchases ili Google Play.
+Ako je aplikacija instalirana putem Huawei AppGallery, sve kupovine se obrađuju putem Huawei IAP. Linkovi ka Google Play važe samo za verzije distribuirane putem Google Play.
+
+Ne čuvamo niti obrađujemo podatke o bankovnim karticama.
+
+6. Kontrola nad vašim podacima
+Možete:
+- obrisati sačuvane podatke u aplikaciji ili Androidu;
+- opozvati dozvole u podešavanjima uređaja;
+- isključiti reklame kupovinom odgovarajuće funkcije;
+- promeniti saglasnost za prikazivanje personalizovanih reklama;
+- zatražiti brisanje dobrovoljno datih podataka pisanjem na support@dr-it.studio.
+
+7. Bezbednost
+- Aplikacija ne šalje korisničke podatke na udaljene servere bez saglasnosti.
+- Svi proračuni i dokumenti se čuvaju lokalno.
+- Preporučuje se korišćenje zaključavanja ekrana i drugih zaštita uređaja.
+
+8. Privatnost dece
+Aplikacija nije namenjena deci mlađoj od 13 godina i ne prikuplja njihove podatke. Ako dete pruži lične podatke, kontaktirajte nas — izbrisaćemo ih.
+
+9. Ažuriranja politike
+Možemo povremeno ažurirati ovu Politiku. Sve promene stupaju na snagu objavljivanjem nove verzije sa izmenjenim datumom stupanja na snagu. Korisnicima se preporučuje da redovno proveravaju aktuelnost politike.
+
+10. Kontakt informacije
+DR.IT.Studio
+Kijev, Ukrajina
+Email: support@dr-it.studio
+
+11. Saglasnost korisnika
+Korišćenjem aplikacije Forest Calculator potvrđujete saglasnost sa uslovima ove Politike privatnosti. Ako se ne slažete — prestanite koristiti aplikaciju.

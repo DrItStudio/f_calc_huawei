@@ -1,0 +1,105 @@
+🛡️ Poileasaidh Prìobhaideachd
+
+Ceann-latha Èifeachdach: 6 Cèitean, 2025
+Ainm an Aplacaid: Forest Calculator
+Leasaiche: DR.IT.Studio
+Suíomh: Kyiv, Ucràin
+Fios: support@dr-it.studio
+
+1. Ro-ràdh
+Tha an aplacaid Forest Calculator, air a leasachadh le DR.IT.Studio (“sinn”), air a dhealbh airson tomhas tomhas nan fiodha agus feartan proifeiseanta eile.
+Mìnichidh an poileasaidh prìobhaideachd seo dè na dàta a chruinnicheas sinn, mar a bhios sinn ga chleachdadh, ga stòradh, ga dhìon agus ga cho-roinn — a’ gabhail a-steach fiosrachadh mu na sanasan le duaisean (rewarded ads).
+Tha an aplacaid air a sgaoileadh tro Huawei AppGallery, agus tha feartan sanasachd agus ballrachd a’ freagairt ri riatanasan Huawei.
+
+2. Dè na Dàta a Chruinnicheas Sinn
+
+2.1 Fiosrachadh Pearsanta
+Chan eil sinn a’ cruinneachadh dàta pearsanta gu fèin-obrachail. Faodaidh an neach-cleachdaidh fiosrachadh a thoirt seachad gu saor-thoileach:
+- seòladh post-d nuair a tha iad a’ conaltradh ri taic;
+- susbaint agus paramadairean a chaidh a-steach gu làimhe san aplacaid (tomhasan, notaichean).
+
+2.2 Fiosrachadh Neo-Phearsanta (Teicnigeach)
+Airson breithneachadh mhearachdan, leasachadh seirbheis, agus sanasachd, faodaidh sinn fiosrachadh gun urra a chruinneachadh leithid:
+- seòrsa inneal agus dreach an t-siostaim obrachaidh;
+- cànan an eadar-aghaidh;
+- tricead agus dòigh cleachdaidh feartan an aplacaid;
+- dàta mearachd (logainnean tuiteam);
+- comharra sanasachd inneal (OAID no ID sanasachd).
+
+3. Ceadan agus Ruigsinneachd air Inneal
+
+Ceadan                  Adhbhar
+Ruigsinneachd air stòradh   Sàbhail agus fosgladh fhàilidhean (PDF, Excel, msaa)
+Eadar-lìon               Ùrachaidhean, sanasan, agus puist-d a chuir
+Roinn le aplacaidean eile  Às-mhalairt tomhasan tro theachdaireachdan agus post-d
+Liosta aplacaidean stàlaichte (roghnach)  Gus na dòighean às-mhalairt a thaisbeanadh
+
+Chan eil sinn a’ cleachdadh ceadan gus giùlan luchd-cleachdaidh ann an aplacaidean eile a leantainn.
+
+4. Sanasan agus Seirbheisean Treas-phàrtaidh
+
+4.1 Fiosrachadh Coitcheann
+Faodaidh an aplacaid sanasan pearsanta no neo-phearsanta a thaisbeanadh tro chom-pàirtichean sanasachd, a’ gabhail a-steach:
+- Sanasan Huawei
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Tagh an seòrsa sanas aig a’ chiad chleachdadh agus atharraich e ann an roghainnean an aplacaid.
+
+4.2 Sanasan le Duaisean (Rewarded Video)
+- Tha an neach-cleachdaidh a’ coimhead bhidio gu saor-thoileach gus cothrom fhaighinn air feartan sònraichte (mar eisimpleir, innealan premium).
+- Tha coimhead air sanasan le duaisean roghnach an-còmhnaidh.
+- Mus tèid an sanas a thaisbeanadh, faodaidh an neach-cleachdaidh mìneachadh soilleir fhaighinn mu na feartan a gheibh e.
+- Thèid an duais a thoirt seachad dìreach às dèidh coimhead gu tur air an sanas.
+
+4.3 Teicneòlasan a thathar a’ cleachdadh le Seirbheisean Treas-phàrtaidh
+Faodaidh lìonraidhean sanasachd treas-phàrtaidh cleachdadh:
+- comharraichean sanasachd;
+- cookiean no teicneòlasan coltach ris;
+- dàta cruinnichte airson sanasan pearsanta a thaisbeanadh.
+
+Poileasaidhean lìonraidhean sanasachd:
+- Sanasan Huawei: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Feartan Pàighte agus Ballrachd
+Faodaidh an aplacaid na feartan pàighte a leanas a thabhann:
+- dòighean adhartach airson tomhasan;
+- às-mhalairt gu PDF, Excel;
+- cuir às do shanasan;
+- cothrom premium (ballrachd no ceannach aon-ùine).
+
+Tha na pàighidhean air an giullachd tro Huawei In-App Purchases no Google Play.
+Ma tha an aplacaid air a stàladh tro Huawei AppGallery, tha na ceannachain uile air an giullachd tro Huawei IAP. Tha ceanglaichean Google Play freagairteach dìreach do dhreachan a tha air an sgaoileadh tro Google Play.
+
+Chan eil sinn a’ stòradh no a’ giullachd fiosrachadh cairt-bhanca.
+
+6. Smachd air do Dàta
+Faodaidh tu:
+- dàta air a stòradh san aplacaid no ann an roghainnean Android a dhubhadh às;
+- ceadan a thoirt air falbh ann an roghainnean do inneil;
+- sanasan a dhì-cheadachadh le ceannach an roghainn;
+- do thoileachas mu shanasan atharrachadh;
+- iarrtas a dhèanamh airson dàta a dhubhadh às le bhith a’ sgrìobhadh thugainn aig support@dr-it.studio.
+
+7. Tèarainteachd
+- Cha toir an aplacaid do dhàta gu frithealaichean iomallach às aonais cead an neach-cleachdaidh.
+- Tha na h-obraichean agus na sgrìobhainnean uile air an stòradh gu ionadail air do inneal.
+- Tha sinn a’ moladh cleachdadh glaodh-sgrìn agus dòighean eile airson dìon do inneil.
+
+8. Prìobhaideachd Chloinne
+Chan eilear a’ cur an aplacaid an dùil airson clann fo 13 bliadhna agus cha chruinnich e fiosrachadh pearsanta bhuapa gu mothachail. Ma tha thu den bheachd gun do chuir do chlann fiosrachadh thugainn, cuir fios thugainn agus bidh sinn ga dhubhadh às gu luath.
+
+9. Ùrachaidhean Poileasaidh
+Faodaidh sinn an Poileasaidh Prìobhaideachd seo ùrachadh bho àm gu àm. Thèid atharrachaidhean a chur an gnìomh sa bhad nuair a thèid dreach ùr fhoillseachadh le ceann-latha ùraichte. Tha sinn a’ moladh do luchd-cleachdaidh an poileasaidh a sgrùdadh gu cunbhalach.
+
+10. Fiosrachadh Conaltraidh
+DR.IT.Studio
+Kyiv, Ucràin
+📧 support@dr-it.studio
+
+11. Toilichte an Neach-Cleachdaidh
+Le bhith a’ cleachdadh an aplacaid Forest Calculator, tha thu a’ dearbhadh do thoilichte leis a’ Phoileasaidh Prìobhaideachd seo. Ma chan eil thu ag aontachadh, cuir stad air a’ chleachdadh.

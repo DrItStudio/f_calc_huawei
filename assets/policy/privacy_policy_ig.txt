@@ -1,0 +1,106 @@
+🛡️ Ndụmọdụ Nzuzo
+
+Ụbọchị mmalite: Mee 6, 2025
+Aha ngwa: Forest Calculator
+Onye mmepe: DR.IT.Studio
+Ebe: Kyiv, Ukraine
+Kpọtụrụ: support@dr-it.studio
+
+1. Mmalite
+Ngwa Forest Calculator, nke DR.IT.Studio ("anyi") mepụtara, e mere ya maka ịgụ ọnụ ọgụgụ osisi na ọrụ ndị ọzọ ọkachamara.
+Ndụmọdụ nzuzo a na-akọwa data anyị na-anakọta, otu anyị si eji, chekwaa, chebe, na nyefee ya, gụnyere ozi gbasara mgbasa ozi na ndebanye aha akwụ ụgwọ.
+Ngwa a na-ekesa site na Huawei AppGallery, na atụmatụ mgbasa ozi na ndebanye aha niile na-agbaso ihe achọrọ Huawei.
+
+2. Data Anyị Na-anakọta
+
+2.1 Data Onwe
+Anyị anaghị anakọta data onwe na-akpaghị aka. Onye ọrụ nwere ike inye ya n voluntarily:
+- adreesị email mgbe ị na-akpọtụrụ nkwado;
+- ọdịnaya na paramita ndị etinyere n'ọrụ aka (ngụkọta, edemede).
+
+2.2 Data Na-abụghị Onwe (Technical)
+Maka nyocha, mmezi ọrụ, na mgbasa ozi, anyị nwere ike ịnakọta data na-enweghị aha dịka:
+- ụdị ngwaọrụ na nsụgharị OS;
+- asụsụ interface;
+- ugboro na ụzọ eji atụmatụ ngwa;
+- data njehie (crash logs);
+- njirimara mgbasa ozi ngwaọrụ (OAID ma ọ bụ Advertising ID).
+
+3. Ikikere na Nweta Ngwa
+
+Ikikere                  Ebumnuche
+Nweta nchekwa            Ichekwa na imeghe faịlụ (PDF, Excel, wdg)
+Internet                  Mmelite, mgbasa ozi, izipu email
+Ikerịta na ngwa ndị ọzọ   Mbupụ ngụkọta site na ozi na email
+Ndepụta ngwa etinyere (nhọrọ) Igosipụta ụzọ mbupụ dị
+
+Anyị anaghị eji ikike soro omume na ngwa ndị ọzọ.
+
+4. Mgbasa Ozi na Ọrụ Ụlọọrụ nke atọ
+
+4.1 Ozi General
+Ngwa nwere ike igosi mgbasa ozi ahaziri ahazi ma ọ bụ na-abụghị ahazi site na netwọk mgbasa ozi ụlọọrụ nke atọ, gụnyere:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Onye ọrụ na-ahọrọ ụdị mgbasa ozi na iji mbụ ma nwee ike ịgbanwe ya na ntọala ngwa.
+
+4.2 Mgbasa Ozi Nwere Nrite (Rewarded Video)
+- Onye ọrụ na-ekiri vidiyo n voluntarily iji nweta atụmatụ ụfọdụ (dịka ngwaọrụ premium).
+- Ikiri mgbasa ozi nwere nrite bụ nhọrọ mgbe niile.
+- Tupu igosi mgbasa ozi, onye ọrụ na-enweta nkọwa doro anya banyere atụmatụ ọ ga-enweta.
+- Nrite na-enyere naanị mgbe mgbasa ozi ahụ ekiri kpamkpam.
+
+4.3 Teknụzụ eji eme ọrụ ụlọọrụ nke atọ
+Netwọk mgbasa ozi ụlọọrụ nke atọ nwere ike iji:
+- njirimara mgbasa ozi;
+- kuki ma ọ bụ teknụzụ yiri ya;
+- data jikọtara ọnụ maka mgbasa ozi ahaziri ahazi.
+
+Ndụmọdụ netwọk mgbasa ozi:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Atụmatụ akwụ ụgwọ na ndebanye aha
+Ngwa nwere ike inye:
+- ụzọ ngụkọta dị elu;
+- mbupụ na PDF, Excel;
+- iwepu mgbasa ozi;
+- nnweta premium (ndebanye aha ma ọ bụ otu ugboro).
+
+A na-arụ ọrụ ụgwọ niile site na Huawei In-App Purchases ma ọ bụ Google Play.
+Ọ bụrụ na etinyere ngwa site na Huawei AppGallery, a na-arụ ọrụ ịzụrụ ihe niile site na Huawei IAP. Njikọ Google Play dị mkpa naanị maka nsụgharị ekesa site na Google Play.
+
+Anyị anaghị echekwa ma ọ bụ rụọ ọrụ data kaadị ụlọ akụ.
+
+6. Njikwa Data Gị
+Ị nwere ike:
+- ihichapụ data echekwara na ngwa ma ọ bụ Android;
+- wepu ikike na ntọala ngwaọrụ;
+- gbanyụọ mgbasa ozi site na ịzụrụ atụmatụ metụtara;
+- gbanwee nkwenye maka mgbasa ozi ahaziri ahazi;
+- rịọ ihichapụ data enyere n voluntarily site na ide na support@dr-it.studio.
+
+7. Nche
+- Ngwa anaghị eziga data onye ọrụ na sava dịpụrụ adịpụ na-enweghị nkwenye.
+- Ngụkọta na akwụkwọ niile echekwara n'ọrụ.
+- A na-adụ ọdụ ka eji mkpọchi ihuenyo na nchebe ngwaọrụ ndị ọzọ.
+
+8. Nzuzo ụmụaka
+Ngwa abụghị maka ụmụaka n'okpuru afọ 13 ma anaghị anakọta data ha. Ọ bụrụ na nwa enyela data onwe, kpọtụrụ anyị — anyị ga-ewepụ ya.
+
+9. Mmepụta Ndụmọdụ
+Anyị nwere ike imelite ndụmọdụ a oge ụfọdụ. A na-etinye mgbanwe niile n'ọrụ mgbe e bipụtara nsụgharị ọhụrụ na ụbọchị mmalite emelitere. A na-adụ ọdụ ka ndị ọrụ na-enyocha ndụmọdụ oge niile.
+
+10. Ozi Kpọtụrụ
+DR.IT.Studio
+Kyiv, Ukraine
+Email: support@dr-it.studio
+
+11. Nkwenye Onye Ọrụ
+Site n'iji ngwa Forest Calculator, ị na-ekwenye na ọnọdụ ndụmọdụ nzuzo a. Ọ bụrụ na ị naghị ekwenye — kwụsị iji ngwa ahụ.
+

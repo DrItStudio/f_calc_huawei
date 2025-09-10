@@ -1,0 +1,105 @@
+Dasar Privasi
+
+Tarikh Berkuat kuasa: 6 Mei 2025
+Nama Aplikasi: Forest Calculator
+Pembangun: DR.IT.Studio
+Lokasi: Kyiv, Ukraine
+Hubungi: support@dr-it.studio
+
+1. Pengenalan
+Aplikasi Forest Calculator, dibangunkan oleh DR.IT.Studio ("kami"), direka untuk pengiraan isipadu kayu dan fungsi profesional lain.
+Dasar privasi ini menerangkan data yang kami kumpul, cara kami menggunakan, menyimpan, melindungi dan memindahkannya, termasuk maklumat tentang pengiklanan dan langganan berbayar.
+Aplikasi diedarkan melalui Huawei AppGallery, dan semua ciri pengiklanan dan langganan mematuhi keperluan Huawei.
+
+2. Data yang Kami Kumpul
+
+2.1 Data Peribadi
+Kami tidak mengumpul data peribadi secara automatik. Pengguna boleh memberikan secara sukarela:
+- alamat e-mel semasa menghubungi sokongan;
+- kandungan dan parameter yang dimasukkan secara manual dalam aplikasi (pengiraan, nota).
+
+2.2 Data Bukan Peribadi (Teknikal)
+Untuk diagnostik, penambahbaikan perkhidmatan dan pengiklanan, kami boleh mengumpul data tanpa nama seperti:
+- jenis peranti dan versi OS;
+- bahasa antara muka;
+- kekerapan dan cara penggunaan ciri aplikasi;
+- data ralat (crash logs);
+- pengecam pengiklanan peranti (OAID atau Advertising ID).
+
+3. Kebenaran dan Akses Peranti
+
+Kebenaran                  Tujuan
+Akses Storan                Menyimpan dan membuka fail (PDF, Excel, dll.)
+Internet                    Kemas kini, pengiklanan, menghantar e-mel
+Perkongsian dengan aplikasi lain Eksport pengiraan melalui messenger dan e-mel
+Senarai aplikasi yang dipasang (pilihan) Untuk menunjukkan kaedah eksport yang tersedia
+
+Kami tidak menggunakan kebenaran untuk menjejak aktiviti dalam aplikasi lain.
+
+4. Pengiklanan dan Perkhidmatan Pihak Ketiga
+
+4.1 Maklumat Am
+Aplikasi boleh memaparkan iklan diperibadikan atau tidak diperibadikan melalui rangkaian iklan pihak ketiga, termasuk:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Pengguna memilih jenis iklan pada penggunaan pertama dan boleh menukarnya dalam tetapan aplikasi.
+
+4.2 Pengiklanan Berbaloi (Rewarded Video)
+- Pengguna secara sukarela menonton video untuk mengakses ciri tertentu (cth. alat premium).
+- Menonton iklan berbaloi sentiasa pilihan.
+- Sebelum memaparkan iklan, pengguna menerima penjelasan jelas tentang ciri yang akan diperolehi.
+- Ganjaran hanya diberikan selepas iklan ditonton sepenuhnya.
+
+4.3 Teknologi yang Digunakan oleh Perkhidmatan Pihak Ketiga
+Rangkaian iklan pihak ketiga boleh menggunakan:
+- pengecam pengiklanan;
+- kuki atau teknologi serupa;
+- data agregat untuk pengiklanan diperibadikan.
+
+Dasar rangkaian iklan:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Ciri Berbayar dan Langganan
+Aplikasi boleh menawarkan:
+- kaedah pengiraan lanjutan;
+- eksport ke PDF, Excel;
+- penyingkiran iklan;
+- akses premium (langganan atau sekali sahaja).
+
+Semua pembayaran diproses melalui Huawei In-App Purchases atau Google Play.
+Jika aplikasi dipasang melalui Huawei AppGallery, semua pembelian diproses melalui Huawei IAP. Pautan Google Play hanya relevan untuk versi yang diedarkan melalui Google Play.
+
+Kami tidak menyimpan atau memproses data kad bank.
+
+6. Kawalan ke atas Data Anda
+Anda boleh:
+- memadam data yang disimpan dalam aplikasi atau Android;
+- membatalkan kebenaran dalam tetapan peranti;
+- menyahaktifkan iklan dengan membeli ciri berkaitan;
+- menukar persetujuan untuk pengiklanan diperibadikan;
+- meminta pemadaman data yang diberikan secara sukarela dengan menulis kepada support@dr-it.studio.
+
+7. Keselamatan
+- Aplikasi tidak menghantar data pengguna ke pelayan jauh tanpa persetujuan.
+- Semua pengiraan dan dokumen disimpan secara tempatan.
+- Adalah disyorkan untuk menggunakan kunci skrin dan langkah perlindungan peranti lain.
+
+8. Privasi Kanak-kanak
+Aplikasi tidak bertujuan untuk kanak-kanak di bawah umur 13 tahun dan tidak mengumpul data mereka. Jika kanak-kanak memberikan data peribadi, hubungi kami — kami akan memadamkannya.
+
+9. Kemas Kini Dasar
+Kami boleh mengemas kini dasar ini secara berkala. Semua perubahan berkuat kuasa selepas versi baharu diterbitkan dengan tarikh berkuat kuasa yang dikemas kini. Pengguna dinasihatkan untuk menyemak dasar secara berkala.
+
+10. Maklumat Perhubungan
+DR.IT.Studio
+Kyiv, Ukraine
+E-mel: support@dr-it.studio
+
+11. Persetujuan Pengguna
+Dengan menggunakan aplikasi Forest Calculator, anda mengesahkan persetujuan anda terhadap terma dasar privasi ini. Jika anda tidak bersetuju — hentikan penggunaan aplikasi.

@@ -1,0 +1,105 @@
+🛡️ Zásady ochrany osobných údajov
+
+Dátum účinnosti: 6. máj 2025
+Názov aplikácie: Forest Calculator
+Vývojár: DR.IT.Studio
+Umiestnenie: Kyjev, Ukrajina
+Kontakt: support@dr-it.studio
+
+1. Úvod
+Aplikácia Forest Calculator, vyvinutá spoločnosťou DR.IT.Studio ("my"), je určená na výpočet objemu dreva a ďalšie profesionálne funkcie.
+Tieto zásady ochrany osobných údajov vysvetľujú, aké údaje zhromažďujeme, ako ich používame, uchovávame, chránime a prenášame, vrátane informácií o reklamách a platených predplatných.
+Aplikácia je distribuovaná prostredníctvom Huawei AppGallery a všetky reklamné a predplatné funkcie spĺňajú požiadavky spoločnosti Huawei.
+
+2. Aké údaje zhromažďujeme
+
+2.1 Osobné údaje
+Osobné údaje nezhromažďujeme automaticky. Používateľ môže dobrovoľne poskytnúť:
+- e-mailovú adresu pri kontakte s podporou;
+- obsah a parametre manuálne zadané v aplikácii (výpočty, poznámky).
+
+2.2 Neosobné (technické) údaje
+Na diagnostiku, zlepšenie služieb a reklamu môžeme zhromažďovať anonymné údaje, ako napríklad:
+- typ zariadenia a verzia operačného systému;
+- jazyk rozhrania;
+- frekvencia a spôsob používania funkcií aplikácie;
+- údaje o chybách (crash logs);
+- reklamný identifikátor zariadenia (OAID alebo Advertising ID).
+
+3. Povolenia a prístup k zariadeniu
+
+Povolenie                  Účel
+Prístup k úložisku         Ukladanie a otváranie súborov (PDF, Excel, atď.)
+Internet                   Aktualizácie, reklama, odosielanie e-mailov
+Zdieľanie s inými aplikáciami Export výpočtov cez messenger a e-mail
+Zoznam nainštalovaných aplikácií (voliteľné) Zobrazenie dostupných metód exportu
+
+Povolenia nepoužívame na sledovanie aktivít v iných aplikáciách.
+
+4. Reklama a služby tretích strán
+
+4.1 Všeobecné informácie
+Aplikácia môže zobrazovať personalizované alebo nepersonalizované reklamy prostredníctvom reklamných sietí tretích strán, vrátane:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Používateľ si vyberá typ reklamy pri prvom použití a môže ho zmeniť v nastaveniach aplikácie.
+
+4.2 Odmeňované reklamy (Rewarded Video)
+- Používateľ dobrovoľne sleduje video, aby získal prístup k určitým funkciám (napr. prémiové nástroje).
+- Sledovanie odmeňovaných reklám je vždy voliteľné.
+- Pred zobrazením reklamy používateľ dostane jasné vysvetlenie funkcie, ktorú získa.
+- Odmena sa poskytuje iba po úplnom zhliadnutí reklamy.
+
+4.3 Technológie používané službami tretích strán
+Reklamné siete tretích strán môžu používať:
+- reklamné identifikátory;
+- cookies alebo podobné technológie;
+- agregované údaje na personalizovanú reklamu.
+
+Zásady reklamných sietí:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Platené funkcie a predplatné
+Aplikácia môže ponúkať:
+- pokročilé metódy výpočtu;
+- export do PDF, Excel;
+- odstránenie reklám;
+- prémiový prístup (predplatné alebo jednorazový nákup).
+
+Všetky platby sú spracovávané prostredníctvom Huawei In-App Purchases alebo Google Play.
+Ak bola aplikácia nainštalovaná prostredníctvom Huawei AppGallery, všetky nákupy sú spracovávané cez Huawei IAP. Odkazy na Google Play sú relevantné iba pre verzie distribuované cez Google Play.
+
+Neukladáme ani nespracovávame údaje o bankových kartách.
+
+6. Kontrola nad vašimi údajmi
+Môžete:
+- odstrániť uložené údaje v aplikácii alebo v Androide;
+- odvolať povolenia v nastaveniach zariadenia;
+- deaktivovať reklamy zakúpením príslušnej funkcie;
+- zmeniť súhlas na personalizovanú reklamu;
+- požiadať o vymazanie dobrovoľne poskytnutých údajov napísaním na support@dr-it.studio.
+
+7. Bezpečnosť
+- Aplikácia neodosiela údaje používateľa na vzdialené servery bez súhlasu.
+- Všetky výpočty a dokumenty sú uložené lokálne.
+- Odporúča sa používať zámok obrazovky a ďalšie bezpečnostné opatrenia zariadenia.
+
+8. Ochrana súkromia detí
+Aplikácia nie je určená pre deti mladšie ako 13 rokov a nezhromažďuje ich údaje. Ak dieťa poskytlo osobné údaje, kontaktujte nás — údaje vymažeme.
+
+9. Aktualizácie zásad
+Tieto zásady môžeme pravidelne aktualizovať. Všetky zmeny nadobúdajú účinnosť po zverejnení novej verzie a aktualizovaného dátumu účinnosti. Používateľom sa odporúča pravidelne kontrolovať zásady.
+
+10. Kontaktné informácie
+DR.IT.Studio
+Kyjev, Ukrajina
+E-mail: support@dr-it.studio
+
+11. Súhlas používateľa
+Používaním aplikácie Forest Calculator potvrdzujete svoj súhlas s podmienkami týchto zásad ochrany osobných údajov. Ak nesúhlasíte — prestaňte aplikáciu používať.

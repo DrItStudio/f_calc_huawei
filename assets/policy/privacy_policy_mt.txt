@@ -1,0 +1,106 @@
+🛡️ Politika tal-Privatezza
+
+Data ta' effett: 6 ta' Mejju 2025
+Isem tal-App: Forest Calculator
+Żviluppatur: DR.IT.Studio
+Post: Kyiv, l-Ukraina
+Kuntatt: support@dr-it.studio
+
+1. Introduzzjoni
+L-app Forest Calculator, żviluppata minn DR.IT.Studio ("aħna"), hija ddisinjata għall-kalkolu tal-volum tal-injam u funzjonijiet professjonali oħra.
+Din il-politika tal-privatezza tispjega x'data niġbru, kif nużawha, naħżnuha, nipproteġuha u nittrasferuha, inkluża informazzjoni dwar reklamar u abbonamenti mħallsa.
+L-app hija distribwita permezz ta' Huawei AppGallery, u l-karatteristiċi kollha ta' reklamar u abbonament jikkonformaw mar-rekwiżiti ta' Huawei.
+
+2. X'data niġbru
+
+2.1 Data Personali
+Ma niġbrux data personali awtomatikament. L-utent jista' jagħtiha volontarjament:
+- indirizz elettroniku meta jikkuntattja l-appoġġ;
+- kontenut u parametri daħħal bl-idejn fl-app (kalkoli, noti).
+
+2.2 Data mhux personali (teknika)
+Għal dijanjosi, titjib tas-servizz u reklamar, nistgħu niġbru data anonima bħal:
+- tip ta' apparat u verżjoni tas-sistema operattiva;
+- lingwa tal-interface;
+- frekwenza u mod ta' użu tal-karatteristiċi tal-app;
+- data ta' żball (crash logs);
+- identifikatur ta' reklamar tal-apparat (OAID jew Advertising ID).
+
+3. Permessi u Aċċess għall-Apparat
+
+Permess                  Għan
+Aċċess għall-ħażna         Ħażna u fetħiet ta' fajls (PDF, Excel, eċċ.)
+Internet                   Aġġornamenti, reklamar, tibgħat emails
+Qsim ma' apps oħra         Esportazzjoni ta' kalkoli permezz ta' messenger u email
+Lista ta' apps installati (mhux obbligatorja) Biex turi metodi ta' esportazzjoni disponibbli
+
+Ma nużawx permessi biex insegwu attivitajiet f'apps oħra.
+
+4. Reklamar u Servizzi ta' Terzi
+
+4.1 Informazzjoni Ġenerali
+L-app tista' turi reklami personalizzati jew mhux personalizzati permezz ta' netwerks ta' reklamar ta' terzi, inklużi:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+L-utent jagħżel it-tip ta' reklamar fl-ewwel użu u jista' jibdlu fis-settings tal-app.
+
+4.2 Reklamar b'Premju (Rewarded Video)
+- L-utent jara video volontarjament biex ikollu aċċess għal ċerti karatteristiċi (eż. għodod premium).
+- Tara reklami b'premju dejjem hija volontarja.
+- Qabel ma jintwera r-reklam, l-utent jirċievi spjegazzjoni ċara tal-karatteristika li se jiksbu.
+- Il-premju jingħata biss wara li r-reklam jiġi osservat kompletament.
+
+4.3 Teknoloġiji użati mis-servizzi ta' terzi
+Netwerks ta' reklamar ta' terzi jistgħu jużaw:
+- identifikaturi ta' reklamar;
+- cookies jew teknoloġiji simili;
+- data aggregata għal reklamar personalizzat.
+
+Politiki tan-netwerks ta' reklamar:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Karatteristiċi mħallsa u abbonamenti
+L-app tista' toffri:
+- metodi avvanzati ta' kalkolu;
+- esportazzjoni għal PDF, Excel;
+- tneħħija ta' reklami;
+- aċċess premium (abbonament jew darba).
+
+Il-ħlasijiet kollha jiġu pproċessati permezz ta' Huawei In-App Purchases jew Google Play.
+Jekk l-app hija installata permezz ta' Huawei AppGallery, il-ħlasijiet kollha jiġu pproċessati permezz ta' Huawei IAP. Links ta' Google Play huma rilevanti biss għal verżjonijiet distribwiti permezz ta' Google Play.
+
+Ma naħżnux jew nipproċessaw data ta' karta tal-bank.
+
+6. Kontroll fuq id-Data Tiegħek
+Tista':
+- tħassar data maħżuna fl-app jew Android;
+- tirtira permessi fis-settings tal-apparat;
+- tiddiżattiva reklami billi tixtri l-karatteristika rilevanti;
+- tibdel il-kunsens għal reklamar personalizzat;
+- titlob tħassir ta' data mogħtija volontarjament billi tikteb lil support@dr-it.studio.
+
+7. Sigurtà
+- L-app ma tibgħatx data tal-utent lil servers esterni mingħajr kunsens.
+- Il-kalkoli u d-dokumenti kollha jinħażnu lokalment.
+- Huwa rrakkomandat li tuża lock tal-iskrin u miżuri oħra ta' protezzjoni tal-apparat.
+
+8. Privatezza tat-Tfal
+L-app mhix maħsuba għal tfal taħt l-età ta' 13-il sena u ma tiġborx id-data tagħhom. Jekk tifel/tifla jagħti data personali, ikkuntattjana — inħassruha.
+
+9. Aġġornamenti tal-Politika
+Nistgħu naġġornaw din il-politika perjodikament. Il-bidliet kollha jidħlu fis-seħħ mal-pubblikazzjoni tal-verżjoni l-ġdida u d-data ta' effett aġġornata. L-utenti huma avżati biex jiċċekkjaw il-politika regolarment.
+
+10. Informazzjoni ta' Kuntatt
+DR.IT.Studio
+Kyiv, l-Ukraina
+Email: support@dr-it.studio
+
+11. Kunsens tal-Utent
+Billi tuża l-app Forest Calculator, tikkonferma l-kunsens tiegħek mat-termini ta' din il-politika tal-privatezza. Jekk ma taqbilx — waqqaf l-użu tal-app.
+

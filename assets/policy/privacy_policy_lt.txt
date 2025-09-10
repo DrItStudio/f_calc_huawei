@@ -1,0 +1,105 @@
+🛡️ Privatumo politika
+
+Įsigaliojimo data: 2025 m. gegužės 6 d.
+Programėlės pavadinimas: Forest Calculator
+Kūrėjas: DR.IT.Studio
+Vieta: Kijevas, Ukraina
+Kontaktai: support@dr-it.studio
+
+1. Įvadas
+Forest Calculator programėlę sukūrė DR.IT.Studio („mes“), ji skirta medienos tūrio skaičiavimui ir kitoms profesionalioms funkcijoms.
+Ši privatumo politika paaiškina, kokius duomenis renkame, kaip juos naudojame, saugome, apsaugome ir perduodame, įskaitant informaciją apie reklamą ir mokamus prenumeratas.
+Programėlė platinama per Huawei AppGallery, o visos reklamos ir prenumeratos funkcijos atitinka Huawei reikalavimus.
+
+2. Kokius duomenis renkame
+
+2.1 Asmens duomenys
+Asmens duomenų automatiškai nerenkame. Naudotojas gali savanoriškai pateikti:
+- el. pašto adresą kreipiantis į palaikymą;
+- programėlėje rankiniu būdu įvestą turinį ir parametrus (skaičiavimai, pastabos).
+
+2.2 Neasmeniniai (techniniai) duomenys
+Diagnostikos, paslaugų tobulinimo ir reklamos tikslais galime rinkti anoniminius duomenis, pvz.:
+- įrenginio tipas ir OS versija;
+- sąsajos kalba;
+- programėlės funkcijų naudojimo dažnumas ir būdas;
+- klaidų duomenys (crash logs);
+- įrenginio reklamos identifikatorius (OAID arba Advertising ID).
+
+3. Leidimai ir prieiga prie įrenginio
+
+Leidimas                  Tikslas
+Prieiga prie saugyklos     Failų saugojimas ir atidarymas (PDF, Excel ir kt.)
+Internetas                Atnaujinimai, reklama, el. laiškų siuntimas
+Dalijimasis su kitomis programėlėmis Skaičiavimų eksportas per žinutes ir el. paštą
+Įdiegtų programėlių sąrašas (pasirinktinai) Galimų eksporto metodų rodymas
+
+Leidimų nenaudojame kitų programėlių veiklos stebėjimui.
+
+4. Reklama ir trečiųjų šalių paslaugos
+
+4.1 Bendroji informacija
+Programėlė gali rodyti suasmenintas arba nesuasmenintas reklamas per trečiųjų šalių reklamos tinklus, įskaitant:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Naudotojas pirmą kartą naudodamas pasirenka reklamos tipą ir gali jį pakeisti programėlės nustatymuose.
+
+4.2 Apdovanotos reklamos (Rewarded Video)
+- Naudotojas savanoriškai žiūri vaizdo įrašą, kad gautų prieigą prie tam tikrų funkcijų (pvz., premium įrankių).
+- Apdovanotos reklamos žiūrėjimas visada yra savanoriškas.
+- Prieš rodant reklamą, naudotojas gauna aiškų paaiškinimą, kokią funkciją gaus.
+- Apdovanojimas suteikiamas tik po visiško reklamos peržiūrėjimo.
+
+4.3 Trečiųjų šalių paslaugų naudojamos technologijos
+Trečiųjų šalių reklamos tinklai gali naudoti:
+- reklamos identifikatorius;
+- slapukus ar panašias technologijas;
+- sujungtus duomenis suasmenintai reklamai rodyti.
+
+Reklamos tinklų politika:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Mokamos funkcijos ir prenumeratos
+Programėlė gali siūlyti:
+- pažangius skaičiavimo metodus;
+- eksportą į PDF, Excel;
+- reklamos pašalinimą;
+- premium prieigą (prenumerata arba vienkartinė).
+
+Visi mokėjimai apdorojami per Huawei In-App Purchases arba Google Play.
+Jei programėlė įdiegta per Huawei AppGallery, visi pirkimai apdorojami per Huawei IAP. Google Play nuorodos aktualios tik versijoms, platinamoms per Google Play.
+
+Nesaugome ir neapdorojame banko kortelių duomenų.
+
+6. Kontrolė savo duomenims
+Galite:
+- ištrinti programėlėje ar Android išsaugotus duomenis;
+- atšaukti leidimus įrenginio nustatymuose;
+- išjungti reklamas įsigiję atitinkamą funkciją;
+- pakeisti sutikimą suasmenintai reklamai rodyti;
+- prašyti ištrinti savanoriškai pateiktus duomenis rašydami support@dr-it.studio.
+
+7. Saugumas
+- Programėlė be sutikimo nesiunčia naudotojo duomenų į išorinius serverius.
+- Visi skaičiavimai ir dokumentai saugomi lokaliai.
+- Rekomenduojama naudoti ekrano užraktą ir kitas įrenginio apsaugos priemones.
+
+8. Vaikų privatumas
+Programėlė nėra skirta vaikams iki 13 metų ir nerenka jų duomenų. Jei vaikas pateikė asmens duomenis, susisiekite su mumis — juos ištrinsime.
+
+9. Politikos atnaujinimai
+Šią politiką galime periodiškai atnaujinti. Visi pakeitimai įsigalioja paskelbus naują versiją ir atnaujinus įsigaliojimo datą. Naudotojams rekomenduojama reguliariai tikrinti politiką.
+
+10. Kontaktinė informacija
+DR.IT.Studio
+Kijevas, Ukraina
+El. paštas: support@dr-it.studio
+
+11. Naudotojo sutikimas
+Naudodami Forest Calculator programėlę, patvirtinate savo sutikimą su šios privatumo politikos sąlygomis. Jei nesutinkate — nutraukite programėlės naudojimą.

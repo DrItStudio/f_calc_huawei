@@ -1,0 +1,106 @@
+🛡️ Manufar Sirri
+
+Ranar Farawa: 6 Mayu, 2025
+Sunan App: Forest Calculator
+Mai haɓakawa: DR.IT.Studio
+Wuri: Kyiv, Ukraine
+Tuntuɓa: support@dr-it.studio
+
+1. Gabatarwa
+Manhajar Forest Calculator, wanda DR.IT.Studio ("mu") ya haɓaka, an ƙera ta don ƙididdigar girman itace da sauran ayyukan ƙwararru.
+Wannan manufar sirri tana bayyana irin bayanan da muke tattarawa, yadda muke amfani da su, adanawa, karewa da canjawa, ciki har da bayanai game da talla da biyan kuɗi.
+Manhajar tana samuwa ta Huawei AppGallery, kuma duk fasalulluka na talla da biyan kuɗi suna bin ƙa'idodin Huawei.
+
+2. Irin Bayanai da Muke Tattarawa
+
+2.1 Bayanai na Kaina
+Ba mu tattara bayanai na kaina ta atomatik ba. Mai amfani na iya bayar da:
+- adireshin imel lokacin tuntuɓar goyon baya;
+- abun ciki da sigogi da aka shigar da hannu a cikin manhaja (ƙididdiga, bayanai).
+
+2.2 Bayanai marasa Kaina (Na Fasaha)
+Don gano matsala, inganta sabis da talla, za mu iya tattara bayanai marasa suna kamar:
+- nau'in na'ura da sigar OS;
+- harshen keɓaɓɓen fuska;
+- yawan amfani da fasalulluka na manhaja;
+- bayanan kuskure (crash logs);
+- na'urar tallan na'ura (OAID ko Advertising ID).
+
+3. Izini da Samun Na'ura
+
+Izini                  Manufa
+Samun ajiya            Ajiye da buɗe fayiloli (PDF, Excel, da sauransu)
+Intanet                 Sabuntawa, talla, aika imel
+Raba tare da sauran manhajoji Fitar da ƙididdiga ta saƙon waya da imel
+Jerun manhajoji da aka girka (zaɓi) Don nuna hanyoyin fitarwa da ake da su
+
+Ba mu amfani da izini don bin diddigin ayyuka a cikin sauran manhajoji ba.
+
+4. Talla da Sabis na ɓangare na uku
+
+4.1 Bayani Gabaɗaya
+Manhajar na iya nuna talla na musamman ko maras musamman ta hanyar hanyoyin talla na ɓangare na uku, ciki har da:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Mai amfani na zaɓar nau'in talla a amfani na farko kuma zai iya canza shi a cikin saitunan manhaja.
+
+4.2 Talla mai lada (Rewarded Video)
+- Mai amfani na kallon bidiyo da son rai don samun damar wasu fasalulluka (misali, kayan aiki na musamman).
+- Kallon talla mai lada koyaushe zaɓi ne.
+- Kafin nuna talla, mai amfani na samun bayani mai kyau game da fasalin da zai samu.
+- Ana bayar da lada ne kawai bayan an kalli talla gaba ɗaya.
+
+4.3 Fasahohin da Sabis na ɓangare na uku ke amfani da su
+Hanyoyin talla na ɓangare na uku na iya amfani da:
+- na'urar tallan na'ura;
+- kukis ko fasahohin da suka yi kama;
+- bayanan haɗin gwiwa don nuna talla na musamman.
+
+Ka'idojin hanyoyin talla:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Fasali masu Biya da Biyan Kuɗi
+Manhajar na iya bayar da:
+- hanyoyin ƙididdiga na ci gaba;
+- fitarwa zuwa PDF, Excel;
+- cire talla;
+- damar musamman (biyan kuɗi ko sau ɗaya).
+
+Duk biyan kuɗi ana sarrafa su ta Huawei In-App Purchases ko Google Play.
+Idan an girka manhajar ta Huawei AppGallery, duk sayayya ana sarrafa su ta Huawei IAP. Hanyoyin Google Play sun dace ne kawai da nau'ikan da aka rarraba ta Google Play.
+
+Ba mu adana ko sarrafa bayanan katin banki ba.
+
+6. Sarrafa Bayananka
+Za ka iya:
+- share bayanan da aka adana a cikin manhaja ko Android;
+- soke izini a cikin saitunan na'ura;
+- kashe talla ta hanyar siyan fasalin da ya dace;
+- canza yarda don nuna talla na musamman;
+- nema a share bayanan da aka bayar da son rai ta rubuta zuwa support@dr-it.studio.
+
+7. Tsaro
+- Manhajar ba ta aika bayanan mai amfani zuwa sabar waje ba tare da yarda ba.
+- Duk ƙididdiga da takardu ana adanawa a cikin na'ura.
+- Ana ba da shawarar amfani da kulle fuska da sauran matakan kariya na na'ura.
+
+8. Sirrin Yara
+Manhajar ba ta dace da yara ƙasa da shekaru 13 ba kuma ba ta tattara bayanansu. Idan yaro ya bayar da bayanan kaina, tuntuɓe mu — za mu share su.
+
+9. Sabunta Manufa
+Za mu iya sabunta wannan manufar lokaci-lokaci. Duk canje-canje za su fara aiki da zarar an fitar da sabon sigar tare da sabunta ranar farawa. Ana ba da shawarar masu amfani su duba manufar akai-akai.
+
+10. Bayani na Tuntuɓa
+DR.IT.Studio
+Kyiv, Ukraine
+Imel: support@dr-it.studio
+
+11. Yarda da Mai Amfani
+Ta amfani da manhajar Forest Calculator, ka tabbatar da yardarka da sharuɗɗan wannan manufar sirri. Idan ba ka yarda ba — daina amfani da manhajar.
+

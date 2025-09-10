@@ -1,0 +1,105 @@
+🛡️ Informativa sulla privacy
+
+Data di efficacia: 6 maggio 2025
+Nome dell'app: Forest Calculator
+Sviluppatore: DR.IT.Studio
+Località: Kyiv, Ucraina
+Contatto: support@dr-it.studio
+
+1. Introduzione
+L'app Forest Calculator, sviluppata da DR.IT.Studio ("noi"), è progettata per il calcolo del volume del legno e altre funzioni professionali.
+Questa informativa sulla privacy spiega quali dati raccogliamo, come li utilizziamo, li conserviamo, li proteggiamo e li trasferiamo, incluse le informazioni su pubblicità e abbonamenti a pagamento.
+L'app è distribuita tramite Huawei AppGallery e tutte le funzionalità di pubblicità e abbonamento sono conformi ai requisiti Huawei.
+
+2. Quali dati raccogliamo
+
+2.1 Dati personali
+Non raccogliamo dati personali automaticamente. L'utente può fornire volontariamente:
+- indirizzo email quando contatta il supporto;
+- contenuti e parametri inseriti manualmente nell'app (calcoli, note).
+
+2.2 Dati non personali (tecnici)
+Per la diagnostica, il miglioramento del servizio e la pubblicità, possiamo raccogliere dati anonimi come:
+- tipo di dispositivo e versione del sistema operativo;
+- lingua dell'interfaccia;
+- frequenza e modalità di utilizzo delle funzionalità dell'app;
+- dati di errore (crash logs);
+- identificatore pubblicitario del dispositivo (OAID o Advertising ID).
+
+3. Permessi e accesso al dispositivo
+
+Permesso                  Scopo
+Accesso alla memoria       Salvataggio e apertura di file (PDF, Excel, ecc.)
+Internet                   Aggiornamenti, pubblicità, invio di email
+Condivisione con altre app Esportazione dei calcoli tramite messenger ed email
+Elenco delle app installate (opzionale) Per mostrare i metodi di esportazione disponibili
+
+Non utilizziamo i permessi per tracciare le attività in altre app.
+
+4. Pubblicità e servizi di terze parti
+
+4.1 Informazioni generali
+L'app può mostrare annunci personalizzati o non personalizzati tramite reti pubblicitarie di terze parti, tra cui:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+L'utente seleziona il tipo di annuncio al primo utilizzo e può modificarlo nelle impostazioni dell'app.
+
+4.2 Annunci con ricompensa (Rewarded Video)
+- L'utente guarda volontariamente un video per accedere a determinate funzionalità (es. strumenti premium).
+- La visione di annunci con ricompensa è sempre opzionale.
+- Prima di mostrare l'annuncio, l'utente riceve una spiegazione chiara della funzionalità che otterrà.
+- La ricompensa viene data solo dopo la visione completa dell'annuncio.
+
+4.3 Tecnologie utilizzate dai servizi di terze parti
+Le reti pubblicitarie di terze parti possono utilizzare:
+- identificatori pubblicitari;
+- cookie o tecnologie simili;
+- dati aggregati per la pubblicità personalizzata.
+
+Politiche delle reti pubblicitarie:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Funzionalità a pagamento e abbonamenti
+L'app può offrire:
+- metodi di calcolo avanzati;
+- esportazione in PDF, Excel;
+- rimozione degli annunci;
+- accesso premium (abbonamento o una tantum).
+
+Tutti i pagamenti sono elaborati tramite Huawei In-App Purchases o Google Play.
+Se l'app è installata tramite Huawei AppGallery, tutti gli acquisti sono elaborati tramite Huawei IAP. I link a Google Play sono rilevanti solo per le versioni distribuite tramite Google Play.
+
+Non memorizziamo né elaboriamo dati delle carte bancarie.
+
+6. Controllo sui tuoi dati
+Puoi:
+- eliminare i dati salvati nell'app o su Android;
+- revocare i permessi nelle impostazioni del dispositivo;
+- disattivare gli annunci acquistando la relativa funzionalità;
+- modificare il consenso per la pubblicità personalizzata;
+- richiedere la cancellazione dei dati forniti volontariamente scrivendo a support@dr-it.studio.
+
+7. Sicurezza
+- L'app non trasmette dati dell'utente a server remoti senza consenso.
+- Tutti i calcoli e i documenti sono salvati localmente.
+- Si consiglia di utilizzare il blocco schermo e altre misure di protezione del dispositivo.
+
+8. Privacy dei bambini
+L'app non è destinata ai bambini di età inferiore ai 13 anni e non raccoglie i loro dati. Se un bambino ha fornito dati personali, contattaci — li cancelleremo.
+
+9. Aggiornamenti della politica
+Possiamo aggiornare questa politica periodicamente. Tutte le modifiche entrano in vigore con la pubblicazione della nuova versione e la data di efficacia aggiornata. Si consiglia agli utenti di controllare regolarmente la politica.
+
+10. Informazioni di contatto
+DR.IT.Studio
+Kyiv, Ucraina
+Email: support@dr-it.studio
+
+11. Consenso dell'utente
+Utilizzando l'app Forest Calculator, confermi il tuo consenso ai termini di questa informativa sulla privacy. Se non sei d'accordo — interrompi l'utilizzo dell'app.

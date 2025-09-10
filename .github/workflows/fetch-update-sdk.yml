@@ -1,0 +1,68 @@
+name: Fetch Huawei Update SDK AAR
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (empty)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Prepare dirs
+        run: |
+          mkdir -p artifacts
+      - name: Download appupdate metadata
+        run: |
+          set -e
+          BASES=("https://developer.huawei.com/repo" "https://repo.huaweicloud.com/repository/maven" "https://mirrors.huaweicloud.com/repository/maven" "https://repo.hihonor.com/honor-maven")
+          GROUP_HMS=com.huawei.hms
+          ART_APP=appupdate
+          GROUP_UPD=com.huawei.updatesdk
+          ART_SDK=update-sdk
+          function fetch_one(){
+            curl -fsSL "$1/${GROUP_HMS//./\/}/$ART_APP/maven-metadata.xml" -o meta_app.xml || true
+            curl -fsSL "$1/${GROUP_UPD//./\/}/$ART_SDK/maven-metadata.xml" -o meta_sdk.xml || true
+          }
+          for b in "${BASES[@]}"; do fetch_one "$b"; done
+          echo "AppUpdate versions:"; grep -oE '<version>[^<]+' meta_app.xml | cut -d '>' -f2 | tail -n 15 || true
+          echo "Update-SDK versions:"; grep -oE '<version>[^<]+' meta_sdk.xml | cut -d '>' -f2 | tail -n 15 || true
+      - name: Download candidate versions
+        run: |
+          set -e
+          mkdir -p dl
+          bases=("https://developer.huawei.com/repo" "https://repo.huaweicloud.com/repository/maven" "https://repo.huaweicloud.com/repository/maven" "https://mirrors.huaweicloud.com/repository/maven" "https://repo.hihonor.com/honor-maven")
+          app_vers=(6.12.0.302 6.12.0.301 6.12.0.300 6.11.0.302 6.10.0.302 6.10.0.301 6.9.0.300)
+          sdk_vers=(3.1.2.300 3.1.0.300 3.0.2.300 3.0.1.300)
+          function try_dl(){
+            url="$1/${2//./\/}/$3/$4/$3-$4.aar"
+            echo "TRY $url"
+            if curl -f --retry 2 -L "$url" -o "dl/$3-$4.aar"; then
+              echo "OK $3-$4"
+              return 0
+            fi
+            return 1
+          }
+          for v in "${app_vers[@]}"; do
+            for b in "${bases[@]}"; do
+              if [ -f "dl/appupdate-$v.aar" ]; then break; fi
+              try_dl "$b" com.huawei.hms appupdate "$v" || true
+            done
+            [ -f "dl/appupdate-$v.aar" ] && break
+          done
+          for v in "${sdk_vers[@]}"; do
+            for b in "${bases[@]}"; do
+              if [ -f "dl/update-sdk-$v.aar" ]; then break; fi
+              try_dl "$b" com.huawei.updatesdk update-sdk "$v" || true
+            done
+            [ -f "dl/update-sdk-$v.aar" ] && break
+          done
+          ls -l dl || true
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: huawei-update-aars
+          path: dl/*.aar
+          if-no-files-found: warn

@@ -1,0 +1,105 @@
+🛡️ Chính sách quyền riêng tư
+
+Ngày có hiệu lực: 6 tháng 5 năm 2025
+Tên ứng dụng: Forest Calculator
+Nhà phát triển: DR.IT.Studio
+Địa điểm: Kyiv, Ukraina
+Liên hệ: support@dr-it.studio
+
+1. Giới thiệu
+Ứng dụng Forest Calculator, được phát triển bởi DR.IT.Studio ("chúng tôi"), được thiết kế để tính toán khối lượng gỗ và các chức năng chuyên nghiệp khác.
+Chính sách quyền riêng tư này giải thích chúng tôi thu thập dữ liệu gì, cách sử dụng, lưu trữ, bảo vệ và chuyển giao dữ liệu, bao gồm thông tin về quảng cáo và đăng ký trả phí.
+Ứng dụng được phân phối qua Huawei AppGallery và tất cả các tính năng quảng cáo, đăng ký đều tuân thủ yêu cầu của Huawei.
+
+2. Dữ liệu chúng tôi thu thập
+
+2.1 Dữ liệu cá nhân
+Chúng tôi không tự động thu thập dữ liệu cá nhân. Người dùng có thể tự nguyện cung cấp:
+- địa chỉ email khi liên hệ hỗ trợ;
+- nội dung và tham số nhập thủ công trong ứng dụng (tính toán, ghi chú).
+
+2.2 Dữ liệu không cá nhân (kỹ thuật)
+Để chẩn đoán, cải thiện dịch vụ và quảng cáo, chúng tôi có thể thu thập dữ liệu ẩn danh như:
+- loại thiết bị và phiên bản hệ điều hành;
+- ngôn ngữ giao diện;
+- tần suất và cách sử dụng các tính năng ứng dụng;
+- dữ liệu lỗi (crash logs);
+- mã nhận diện quảng cáo thiết bị (OAID hoặc Advertising ID).
+
+3. Quyền và truy cập thiết bị
+
+Quyền                  Mục đích
+Truy cập bộ nhớ         Lưu và mở tệp (PDF, Excel, v.v.)
+Internet                Cập nhật, quảng cáo, gửi email
+Chia sẻ với ứng dụng khác Xuất kết quả qua messenger và email
+Danh sách ứng dụng đã cài đặt (tùy chọn) Hiển thị các phương thức xuất khả dụng
+
+Chúng tôi không sử dụng quyền để theo dõi hoạt động trong ứng dụng khác.
+
+4. Quảng cáo và dịch vụ bên thứ ba
+
+4.1 Thông tin chung
+Ứng dụng có thể hiển thị quảng cáo cá nhân hóa hoặc không cá nhân hóa qua mạng quảng cáo bên thứ ba, bao gồm:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Người dùng chọn loại quảng cáo khi sử dụng lần đầu và có thể thay đổi trong cài đặt ứng dụng.
+
+4.2 Quảng cáo thưởng (Rewarded Video)
+- Người dùng tự nguyện xem video để truy cập một số tính năng (ví dụ: công cụ cao cấp).
+- Xem quảng cáo thưởng luôn là tùy chọn.
+- Trước khi hiển thị quảng cáo, người dùng nhận được giải thích rõ ràng về tính năng sẽ nhận được.
+- Phần thưởng chỉ được trao sau khi xem hết quảng cáo.
+
+4.3 Công nghệ do dịch vụ bên thứ ba sử dụng
+Mạng quảng cáo bên thứ ba có thể sử dụng:
+- mã nhận diện quảng cáo;
+- cookie hoặc công nghệ tương tự;
+- dữ liệu tổng hợp cho quảng cáo cá nhân hóa.
+
+Chính sách mạng quảng cáo:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Tính năng trả phí và đăng ký
+Ứng dụng có thể cung cấp:
+- phương pháp tính toán nâng cao;
+- xuất ra PDF, Excel;
+- loại bỏ quảng cáo;
+- truy cập cao cấp (đăng ký hoặc mua một lần).
+
+Tất cả thanh toán được xử lý qua Huawei In-App Purchases hoặc Google Play.
+Nếu ứng dụng được cài đặt qua Huawei AppGallery, mọi giao dịch đều xử lý qua Huawei IAP. Liên kết Google Play chỉ áp dụng cho phiên bản phân phối qua Google Play.
+
+Chúng tôi không lưu trữ hoặc xử lý dữ liệu thẻ ngân hàng.
+
+6. Kiểm soát dữ liệu của bạn
+Bạn có thể:
+- xóa dữ liệu đã lưu trong ứng dụng hoặc Android;
+- thu hồi quyền trong cài đặt thiết bị;
+- tắt quảng cáo bằng cách mua tính năng liên quan;
+- thay đổi đồng ý quảng cáo cá nhân hóa;
+- yêu cầu xóa dữ liệu tự nguyện cung cấp bằng cách gửi email tới support@dr-it.studio.
+
+7. Bảo mật
+- Ứng dụng không truyền dữ liệu người dùng lên máy chủ từ xa nếu không có sự đồng ý.
+- Mọi tính toán và tài liệu đều lưu trữ cục bộ.
+- Khuyến nghị sử dụng khóa màn hình và các biện pháp bảo mật thiết bị khác.
+
+8. Quyền riêng tư của trẻ em
+Ứng dụng không dành cho trẻ dưới 13 tuổi và không thu thập dữ liệu của trẻ. Nếu trẻ cung cấp dữ liệu cá nhân, hãy liên hệ với chúng tôi — chúng tôi sẽ xóa dữ liệu đó.
+
+9. Cập nhật chính sách
+Chúng tôi có thể cập nhật chính sách này định kỳ. Mọi thay đổi có hiệu lực sau khi xuất bản phiên bản mới và ngày có hiệu lực cập nhật. Khuyến nghị người dùng kiểm tra chính sách thường xuyên.
+
+10. Thông tin liên hệ
+DR.IT.Studio
+Kyiv, Ukraina
+Email: support@dr-it.studio
+
+11. Đồng ý của người dùng
+Bằng việc sử dụng ứng dụng Forest Calculator, bạn xác nhận đồng ý với các điều khoản của chính sách quyền riêng tư này. Nếu không đồng ý — hãy ngừng sử dụng ứng dụng.

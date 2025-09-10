@@ -1,0 +1,106 @@
+🛡️ Privaatheidsbeleid
+
+Ingangsdatum: 6 Mei 2025
+Toepnaam: Forest Calculator
+Ontwikkelaar: DR.IT.Studio
+Ligging: Oekraïne, Kiev
+Kontak: support@dr-it.studio
+
+1. Inleiding
+Die Forest Calculator-toep, ontwikkel deur DR.IT.Studio ("ons"), is bedoel vir die berekening van houtvolume en ander professionele funksies.
+Hierdie Privaatheidsbeleid verduidelik watter data ons insamel, hoe ons dit gebruik, stoor, beskerm en oordra, insluitend inligting oor advertensies en betaalde intekeninge.
+Die toepassing word versprei via Huawei AppGallery, en alle advertensie- en intekeningfunksies voldoen aan Huawei se vereistes.
+
+2. Watter data ons insamel
+
+2.1 Persoonlike inligting
+Ons versamel nie persoonlike data outomaties nie. Die gebruiker kan vrywillig verskaf:
+- e-posadres wanneer ondersteuning gekontak word;
+- inhoud en parameters wat handmatig in die toepassing ingevoer is (berekeninge, notas).
+
+2.2 Nie-persoonlike (tegniese) inligting
+Vir diagnose, diensverbetering en advertensie-doeleindes kan ons anonieme data insamel soos:
+- toesteltipe en OS-weergawe;
+- koppelvlaktaal;
+- frekwensie en wyse van gebruik van toepassingsfunksies;
+- foutdata (crash logs);
+- advertensie-identifiseerder van die toestel (OAID of Advertising ID).
+
+3. Toestemmings en toegang tot toestel
+
+Toestemming                  Doel
+Toegang tot stoorplek         Stoor en oopmaak van lêers (PDF, Excel, ens.)
+Internet                     Opdaterings, advertensies, stuur van e-posse
+Deel met ander toepassings   Uitvoer van berekeninge via boodskappers en e-pos
+Lys van geïnstalleerde toepassings (opsioneel) Vir die vertoning van beskikbare uitvoermetodes
+
+Ons gebruik nie toestemmings om aktiwiteite in ander toepassings op te spoor nie.
+
+4. Advertensies en derdeparty-dienste
+
+4.1 Algemene inligting
+Die toepassing kan gepersonaliseerde of nie-gepersonaliseerde advertensies vertoon via derdeparty-advertensienetwerke, insluitend:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Die gebruiker kies die tipe advertensie by eerste gebruik en kan dit in die toepassinginstellings verander.
+
+4.2 Beloningsadvertensies (Rewarded Video)
+- Die gebruiker kyk vrywillig na 'n video om toegang tot sekere funksies te kry (bv. premium-instrumente).
+- Die kyk van beloningsadvertensies is altyd opsioneel.
+- Voor die advertensie word duidelik verduidelik watter funksie verkry word.
+- Beloning word slegs gegee na volledige kyk van die advertensie.
+
+4.3 Tegnologieë van derdeparty-dienste
+Derdeparty-advertensienetwerke kan gebruik:
+- advertensie-identifiseerders;
+- koekies of soortgelyke tegnologieë;
+- saamgestelde data vir die vertoning van gepersonaliseerde advertensies.
+
+Beleid van advertensienetwerke:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Betaalde funksies en intekeninge
+Die toepassing kan bied:
+- gevorderde berekeningsmetodes;
+- uitvoer na PDF, Excel;
+- advertensie-verwydering;
+- premium-toegang (intekening of eenmalig).
+
+Alle betalings word verwerk via Huawei In-App Purchases of Google Play.
+As die toepassing via Huawei AppGallery geïnstalleer is, word alle aankope via Huawei IAP verwerk. Skakels na Google Play is slegs van toepassing op weergawes wat via Google Play versprei word.
+
+Ons stoor of verwerk nie bankkaartdata nie.
+
+6. Beheer oor u data
+U kan:
+- gestoorde data in die toepassing of Android verwyder;
+- toestemmings in die toestelinstellings terugtrek;
+- advertensies deaktiveer deur die toepaslike funksie te koop;
+- toestemming vir gepersonaliseerde advertensies verander;
+- versoek om vrywillig verskafde data te verwyder deur te skryf na support@dr-it.studio.
+
+7. Sekuriteit
+- Die toepassing stuur nie gebruikersdata na eksterne bedieners sonder toestemming nie.
+- Alle berekeninge en dokumente word plaaslik gestoor.
+- Dit word aanbeveel om skermsluiting en ander toestelbeskerming te gebruik.
+
+8. Privaatheid van kinders
+Die toepassing is nie bedoel vir kinders onder 13 jaar nie en versamel nie hul data nie. As 'n kind persoonlike data verskaf het, kontak ons asseblief — ons sal dit verwyder.
+
+9. Opdaterings van die beleid
+Ons kan hierdie beleid periodiek opdateer. Alle veranderinge tree in werking met die publikasie van die nuwe weergawe met 'n gewysigde ingangsdatum. Gebruikers word aangeraai om die beleid gereeld na te gaan vir die nuutste weergawe.
+
+10. Kontakinligting
+DR.IT.Studio
+Kiev, Oekraïne
+E-pos: support@dr-it.studio
+
+11. Gebruikerstoestemming
+Deur die Forest Calculator-toep te gebruik, bevestig u u toestemming met die bepalings van hierdie Privaatheidsbeleid. Indien u nie instem nie — staak die gebruik van die toepassing.
+

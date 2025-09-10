@@ -1,0 +1,106 @@
+🛡️ Tietosuojakäytäntö
+
+Voimaantulopäivä: 6. toukokuuta 2025
+Sovelluksen nimi: Forest Calculator
+Kehittäjä: DR.IT.Studio
+Sijainti: Kiova, Ukraina
+Yhteys: support@dr-it.studio
+
+1. Johdanto
+Forest Calculator -sovellus, jonka on kehittänyt DR.IT.Studio ("me"), on suunniteltu puun tilavuuden laskemiseen ja muihin ammatillisiin toimintoihin.
+Tämä tietosuojakäytäntö selittää, mitä tietoja keräämme, miten käytämme, tallennamme, suojaamme ja siirrämme niitä, mukaan lukien mainonta ja maksulliset tilaukset.
+Sovellus jaetaan Huawei AppGalleryn kautta, ja kaikki mainonta- ja tilausominaisuudet noudattavat Huawein vaatimuksia.
+
+2. Mitä tietoja keräämme
+
+2.1 Henkilötiedot
+Emme kerää henkilötietoja automaattisesti. Käyttäjä voi vapaaehtoisesti antaa:
+- sähköpostiosoitteen tukeen otettaessa yhteyttä;
+- sovellukseen käsin syötetyt sisällöt ja parametrit (laskelmat, muistiinpanot).
+
+2.2 Ei-henkilökohtaiset (tekniset) tiedot
+Diagnostiikkaa, palvelun parantamista ja mainontaa varten voimme kerätä anonyymejä tietoja, kuten:
+- laitetyyppi ja käyttöjärjestelmän versio;
+- käyttöliittymän kieli;
+- sovelluksen ominaisuuksien käyttötapa ja -tiheys;
+- virhelokit (crash logs);
+- laitteen mainostunniste (OAID tai Advertising ID).
+
+3. Luvat ja laitteen käyttöoikeus
+
+Lupa                  Tarkoitus
+Tallennuksen käyttöoikeus  Tiedostojen tallentaminen ja avaaminen (PDF, Excel jne.)
+Internet                   Päivitykset, mainonta, sähköpostien lähetys
+Jakaminen muiden sovellusten kanssa Laskelmien vienti viestisovellusten ja sähköpostin kautta
+Asennettujen sovellusten lista (valinnainen) Käytettävissä olevien vientimenetelmien näyttämiseen
+
+Emme käytä lupia muiden sovellusten toiminnan seuraamiseen.
+
+4. Mainonta ja kolmannen osapuolen palvelut
+
+4.1 Yleistä tietoa
+Sovellus voi näyttää personoituja tai ei-personoituja mainoksia kolmannen osapuolen mainosverkkojen kautta, mukaan lukien:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Käyttäjä valitsee mainostyypin ensimmäisellä käyttökerralla ja voi muuttaa sitä sovelluksen asetuksissa.
+
+4.2 Palkitut mainokset (Rewarded Video)
+- Käyttäjä katsoo vapaaehtoisesti videon saadakseen käyttöönsä tiettyjä ominaisuuksia (esim. premium-työkalut).
+- Palkittujen mainosten katsominen on aina vapaaehtoista.
+- Ennen mainoksen näyttämistä käyttäjä saa selkeän selityksen siitä, minkä ominaisuuden hän saa.
+- Palkinto annetaan vain mainoksen täydellisen katsomisen jälkeen.
+
+4.3 Kolmannen osapuolen palveluiden teknologiat
+Kolmannen osapuolen mainosverkot voivat käyttää:
+- mainostunnisteita;
+- evästeitä tai vastaavia teknologioita;
+- yhdistettyjä tietoja personoitujen mainosten näyttämiseen.
+
+Mainosverkkojen käytännöt:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Maksulliset ominaisuudet ja tilaukset
+Sovellus voi tarjota:
+- edistyneitä laskentamenetelmiä;
+- vientiä PDF:ään, Exceliin;
+- mainosten poistamista;
+- premium-käyttöoikeuden (tilaus tai kertamaksu).
+
+Kaikki maksut käsitellään Huawei In-App Purchasesin tai Google Playn kautta.
+Jos sovellus on asennettu Huawei AppGalleryn kautta, kaikki ostot käsitellään Huawei IAP:n kautta. Google Play -linkit koskevat vain Google Playn kautta jaettavia versioita.
+
+Emme tallenna tai käsittele pankkikorttitietoja.
+
+6. Tietojen hallinta
+Voit:
+- poistaa tallennetut tiedot sovelluksessa tai Androidissa;
+- peruuttaa luvat laitteen asetuksissa;
+- poistaa mainokset ostamalla vastaavan ominaisuuden;
+- muuttaa suostumusta personoitujen mainosten näyttämiseen;
+- pyytää vapaaehtoisesti annettujen tietojen poistamista kirjoittamalla osoitteeseen support@dr-it.studio.
+
+7. Turvallisuus
+- Sovellus ei lähetä käyttäjätietoja ulkoisille palvelimille ilman suostumusta.
+- Kaikki laskelmat ja dokumentit tallennetaan paikallisesti.
+- Suositellaan käyttämään näytön lukitusta ja muita laitteen suojausmenetelmiä.
+
+8. Lasten yksityisyys
+Sovellus ei ole tarkoitettu alle 13-vuotiaille lapsille eikä kerää heidän tietojaan. Jos lapsi on antanut henkilötietoja, ota yhteyttä — poistamme ne.
+
+9. Käytännön päivitykset
+Voimme päivittää tätä käytäntöä säännöllisesti. Kaikki muutokset tulevat voimaan uuden version julkaisemisen ja päivitetyn voimaantulopäivän myötä. Käyttäjiä kehotetaan tarkistamaan käytäntö säännöllisesti.
+
+10. Yhteystiedot
+DR.IT.Studio
+Kiova, Ukraina
+Sähköposti: support@dr-it.studio
+
+11. Käyttäjän suostumus
+Käyttämällä Forest Calculator -sovellusta vahvistat suostumuksesi tämän tietosuojakäytännön ehtoihin. Jos et hyväksy — lopeta sovelluksen käyttö.
+

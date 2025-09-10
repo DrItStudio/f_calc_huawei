@@ -1,0 +1,105 @@
+🛡️ Inqubomgomo Yobumfihlo
+
+Usuku lokusebenza: 6 Meyi 2025
+Igama lohlelo lokusebenza: Forest Calculator
+Umthuthukisi: DR.IT.Studio
+Indawo: Kyiv, Ukraine
+Xhumana: support@dr-it.studio
+
+1. Isingeniso
+Uhlelo lokusebenza lwe-Forest Calculator, oluthuthukiswe yi-DR.IT.Studio ("thina"), luhloselwe ukubala ivolumu yezinkuni nezinye izici zobungcweti.
+Le nqubomgomo yobumfihlo ichaza ukuthi yiziphi idatha esiyiqoqayo, ukuthi siyisebenzisa kanjani, siyigcina, siyivikele futhi siyidlulisela kanjani, kuhlanganise nolwazi mayelana nezikhangiso nokubhalisa okukhokhelwayo.
+Uhlelo lokusebenza lusatshalaliswa nge-Huawei AppGallery futhi zonke izici zezikhangiso nokubhalisa zihambisana nezidingo ze-Huawei.
+
+2. Idatha esiyiqoqayo
+
+2.1 Idatha yomuntu siqu
+Asiqoqi idatha yomuntu siqu ngokuzenzakalelayo. Umsebenzisi anganikeza ngokuzithandela:
+- ikheli le-imeyili uma uxhumana nokusekelwa;
+- okuqukethwe namapharamitha afakwe ngesandla ohlelweni lokusebenza (izibalo, amanothi).
+
+2.2 Idatha engeyona yomuntu siqu (yezobuchwepheshe)
+Ukuhlola, ukuthuthukisa isevisi nezikhangiso, singaqoqa idatha engaziwa njengokuthi:
+- uhlobo lwedivayisi kanye nenguqulo ye-OS;
+- ulimi lwesixhumi esibonakalayo;
+- imvamisa nendlela yokusebenzisa izici zohlelo lokusebenza;
+- idatha yamaphutha (crash logs);
+- isihlonzi sesikhangiso sedivayisi (OAID noma Advertising ID).
+
+3. Izimvume nokufinyelela kudivayisi
+
+Imvume                  Inhloso
+Ukufinyelela kokugcina   Ukugcina nokuvula amafayela (PDF, Excel, njll.)
+I-inthanethi             Izibuyekezo, izikhangiso, ukuthumela i-imeyili
+Ukwabelana nezinye izinhlelo zokusebenza Ukuthekelisa izibalo nge-messenger ne-imeyili
+Uhlu lwezinhlelo zokusebenza ezifakiwe (ongakukhetha) Khombisa izindlela ezitholakalayo zokuthekelisa
+
+Asisebenzisi izimvume ukulandelela umsebenzi kwezinye izinhlelo zokusebenza.
+
+4. Izikhangiso nezinsizakalo zenkampani yesithathu
+
+4.1 Ulwazi olujwayelekile
+Uhlelo lokusebenza lungakhombisa izikhangiso ezenziwe zaba ngezakho noma ezingezona ezenzakalelayo ngenethiwekhi yezikhangiso zenkampani yesithathu, okuhlanganisa:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Umsebenzisi ukhetha uhlobo lwesikhangiso ekusetshenzisweni kokuqala futhi angalushintsha kuzilungiselelo zohlelo lokusebenza.
+
+4.2 Izikhangiso ezikhokhelwayo (Rewarded Video)
+- Umsebenzisi ubuka ividiyo ngokuzithandela ukuze afinyelele kwezinye izici (isb. amathuluzi e-premium).
+- Ukubuka izikhangiso ezikhokhelwayo kuhlala kuyindlela yokuzikhethela.
+- Ngaphambi kokubonisa isikhangiso, umsebenzisi uthola incazelo ecacile ngesici azosithola.
+- Umklomelo unikezwa kuphela ngemuva kokubuka isikhangiso ngokuphelele.
+
+4.3 Ubuchwepheshe obusetshenziswa izinsizakalo zenkampani yesithathu
+Amanethiwekhi ezikhangiso zenkampani yesithathu angasebenzisa:
+- izihlonzi zezikhangiso;
+- ama-cookies noma ubuchwepheshe obufanayo;
+- idatha ehlanganisiwe yezikhangiso ezenziwe zaba ngezakho.
+
+Izinqubomgomo zenethiwekhi yezikhangiso:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Izici ezikhokhelwayo nokubhalisa
+Uhlelo lokusebenza lunganikeza:
+- izindlela ezithuthukisiwe zokubala;
+- ukuthekelisa ku-PDF, Excel;
+- ukususa izikhangiso;
+- ukufinyelela kwe-premium (ukubhalisa noma ukuthenga okukodwa).
+
+Zonke izinkokhelo ziqhutshwa nge-Huawei In-App Purchases noma i-Google Play.
+Uma uhlelo lokusebenza lufakwe nge-Huawei AppGallery, zonke izithengiselwano ziqhutshwa nge-Huawei IAP. Izixhumanisi ze-Google Play zisebenza kuphela ezinguqulweni ezisatshalaliswa nge-Google Play.
+
+Asigcini noma sisebenzise idatha yekhadi lasebhange.
+
+6. Ukulawula idatha yakho
+Ungakwenza:
+- susa idatha egciniwe ohlelweni lokusebenza noma ku-Android;
+- susa izimvume kuzilungiselelo zedivayisi;
+- khubaza izikhangiso ngokuthenga isici esihambisanayo;
+- shintsha imvume yezikhangiso ezenziwe zaba ngezakho;
+- cela ukususwa kwedatha enikezwe ngokuzithandela ngokubhala ku-support@dr-it.studio.
+
+7. Ukuvikeleka
+- Uhlelo lokusebenza aludluliseli idatha yomsebenzisi kuma-server akude ngaphandle kwemvume.
+- Zonke izibalo namadokhumenti agcinwa endaweni.
+- Kunconywa ukusebenzisa ukuvalwa kwesikrini nezinye izinyathelo zokuphepha zedivayisi.
+
+8. Ubumfihlo bezingane
+Uhlelo lokusebenza aluhloselwe izingane ezingaphansi kweminyaka engu-13 futhi aluqoqi idatha yazo. Uma ingane inikeze idatha yomuntu siqu, xhumana nathi — sizoyisusa.
+
+9. Izibuyekezo zenqubomgomo
+Singabuyekeza le nqubomgomo ngezikhathi ezithile. Zonke izinguquko zisebenza ngemuva kokukhishwa kwenguqulo entsha nosuku lokusebenza olubuyekeziwe. Kunconywa ukuthi abasebenzisi bahlola inqubomgomo njalo.
+
+10. Ulwazi lokuxhumana
+DR.IT.Studio
+Kyiv, Ukraine
+I-imeyili: support@dr-it.studio
+
+11. Imvume yomsebenzisi
+Ngokusebenzisa uhlelo lokusebenza lwe-Forest Calculator, uqinisekisa imvume yakho ngemigomo yale nqubomgomo yobumfihlo. Uma ungavumelani — yeka ukusebenzisa uhlelo lokusebenza.

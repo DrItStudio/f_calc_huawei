@@ -1,0 +1,106 @@
+🛡️ Politica de confidențialitate
+
+Data intrării în vigoare: 6 mai 2025
+Numele aplicației: Forest Calculator
+Dezvoltator: DR.IT.Studio
+Locație: Kiev, Ucraina
+Contact: support@dr-it.studio
+
+1. Introducere
+Aplicația Forest Calculator, dezvoltată de DR.IT.Studio ("noi"), este concepută pentru calculul volumului de lemn și alte funcții profesionale.
+Această politică de confidențialitate explică ce date colectăm, cum le folosim, stocăm, protejăm și transferăm, inclusiv informații despre reclame și abonamente plătite.
+Aplicația este distribuită prin Huawei AppGallery, iar toate funcțiile de publicitate și abonament respectă cerințele Huawei.
+
+2. Ce date colectăm
+
+2.1 Date personale
+Nu colectăm automat date personale. Utilizatorul poate furniza voluntar:
+- adresa de e-mail la contactarea suportului;
+- conținut și parametri introduși manual în aplicație (calcule, note).
+
+2.2 Date non-personale (tehnice)
+Pentru diagnosticare, îmbunătățirea serviciului și publicitate, putem colecta date anonime precum:
+- tipul dispozitivului și versiunea sistemului de operare;
+- limba interfeței;
+- frecvența și modul de utilizare a funcțiilor aplicației;
+- date de eroare (crash logs);
+- identificatorul de publicitate al dispozitivului (OAID sau Advertising ID).
+
+3. Permisiuni și acces la dispozitiv
+
+Permisiune                  Scop
+Acces la stocare            Salvarea și deschiderea fișierelor (PDF, Excel, etc.)
+Internet                    Actualizări, reclame, trimiterea e-mailurilor
+Partajare cu alte aplicații Exportul calculelor prin messenger și e-mail
+Lista aplicațiilor instalate (opțional) Afișarea metodelor de export disponibile
+
+Nu folosim permisiunile pentru a urmări activitatea în alte aplicații.
+
+4. Reclame și servicii terțe
+
+4.1 Informații generale
+Aplicația poate afișa reclame personalizate sau nepersonalizate prin rețele de publicitate terțe, inclusiv:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Utilizatorul alege tipul de reclamă la prima utilizare și poate modifica această opțiune în setările aplicației.
+
+4.2 Reclame recompensate (Rewarded Video)
+- Utilizatorul vizionează voluntar un videoclip pentru a accesa anumite funcții (ex.: instrumente premium).
+- Vizionarea reclamelor recompensate este întotdeauna opțională.
+- Înainte de afișarea reclamei, utilizatorul primește o explicație clară despre funcția pe care o va obține.
+- Recompensa se acordă doar după vizionarea completă a reclamei.
+
+4.3 Tehnologii folosite de serviciile terțe
+Rețelele de publicitate terțe pot folosi:
+- identificatori de publicitate;
+- cookie-uri sau tehnologii similare;
+- date agregate pentru reclame personalizate.
+
+Politici ale rețelelor de publicitate:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Funcții plătite și abonamente
+Aplicația poate oferi:
+- metode avansate de calcul;
+- export în PDF, Excel;
+- eliminarea reclamelor;
+- acces premium (abonament sau achiziție unică).
+
+Toate plățile sunt procesate prin Huawei In-App Purchases sau Google Play.
+Dacă aplicația a fost instalată prin Huawei AppGallery, toate achizițiile sunt procesate prin Huawei IAP. Linkurile Google Play sunt relevante doar pentru versiunile distribuite prin Google Play.
+
+Nu stocăm sau procesăm datele cardului bancar.
+
+6. Control asupra datelor
+Puteți:
+- șterge datele salvate în aplicație sau pe Android;
+- revoca permisiunile din setările dispozitivului;
+- dezactiva reclamele achiziționând funcția corespunzătoare;
+- modifica consimțământul pentru reclame personalizate;
+- solicita ștergerea datelor furnizate voluntar scriind la support@dr-it.studio.
+
+7. Securitate
+- Aplicația nu transmite datele utilizatorului către servere externe fără consimțământ.
+- Toate calculele și documentele sunt stocate local.
+- Se recomandă utilizarea blocării ecranului și a altor măsuri de securitate ale dispozitivului.
+
+8. Confidențialitatea copiilor
+Aplicația nu este destinată copiilor sub 13 ani și nu colectează datele acestora. Dacă un copil a furnizat date personale, contactați-ne — le vom șterge.
+
+9. Actualizări ale politicii
+Putem actualiza periodic această politică. Toate modificările intră în vigoare după publicarea noii versiuni și a datei de intrare în vigoare actualizate. Se recomandă utilizatorilor să verifice periodic politica.
+
+10. Informații de contact
+DR.IT.Studio
+Kiev, Ucraina
+E-mail: support@dr-it.studio
+
+11. Consimțământul utilizatorului
+Prin utilizarea aplicației Forest Calculator, confirmați consimțământul pentru termenii acestei politici de confidențialitate. Dacă nu sunteți de acord — încetați să utilizați aplicația.
+

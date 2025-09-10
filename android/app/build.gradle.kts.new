@@ -1,0 +1,108 @@
+import java.util.Properties
+import java.io.FileInputStream
+
+plugins {
+    id("com.android.application")
+    id("kotlin-android")
+    id("dev.flutter.flutter-gradle-plugin")
+}
+
+// Загрузка свойств keystore для подписи Huawei
+val keystoreProperties = Properties()
+val keystorePropertiesFile = File(rootProject.projectDir, "key.properties")
+
+// Загружаем свойства keystore
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+}
+
+android {
+    ndkVersion = "27.0.12077973"
+    namespace = "com.dritstudio.forest_calculator"
+    compileSdk = flutter.compileSdkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_11.toString()
+    }
+
+    defaultConfig {
+        // ✅ ИСПРАВЛЕНО: Уникальное имя пакета
+        applicationId = "com.dritstudio.forest_calculator"
+        minSdk = flutter.minSdkVersion
+        targetSdk = flutter.targetSdkVersion
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+        
+        // Включаем поддержку multidex для решения проблемы дублированных классов
+        multiDexEnabled = true
+    }
+
+    // Конфигурация подписи для Huawei AppGallery
+    signingConfigs {
+        create("release") {
+            keyAlias = keystoreProperties.getProperty("keyAlias") ?: "huawei_key"
+            keyPassword = keystoreProperties.getProperty("keyPassword") ?: "123456"
+            storeFile = keystoreProperties.getProperty("storeFile")?.let { file(it) } ?: file("huawei-keystore.jks")
+            storePassword = keystoreProperties.getProperty("storePassword") ?: "123456"
+        }
+    }
+
+    buildTypes {
+        release {
+            // Отключаем подпись для загрузки в Huawei AppGallery (подпись будет выполнена AppGallery)
+            // signingConfig = signingConfigs.getByName("release")
+            
+            // Отключаем минификацию для избежания проблем с R8
+            isMinifyEnabled = false
+            isShrinkResources = false
+            
+            // Правила Proguard/R8 для правильной работы HMS SDK
+            proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
+        }
+        
+        debug {
+            // Debug использует debug подпись
+            signingConfig = signingConfigs.getByName("debug")
+        }
+    }
+}
+dependencies {
+    // Поддержка multidex для решения проблемы дублированных классов
+    implementation("androidx.multidex:multidex:2.0.1")
+    
+    // HMS AppGallery Update API (обязательно для прохождения модерации)
+    implementation("com.huawei.hms:appupdate:5.0.5.300")
+    
+    // Зависимости для рекламы HMS Ads
+    implementation("com.huawei.hms:ads-lite:13.4.77.300")
+    implementation("com.huawei.hms:ads-consent:3.4.77.300")
+    implementation("com.huawei.hms:ads-vast:3.4.44.303")
+    implementation("com.huawei.hms:ads-vast-player:3.4.44.303")
+    
+    // HMS IAP для работы с покупками и подписками
+    implementation("com.huawei.hms:iap:6.3.0.300")
+    
+    // HMS Core SDK для базовой функциональности
+    implementation("com.huawei.hms:base:6.9.0.300")
+    implementation("com.huawei.hms:network-common:5.0.10.302")
+    implementation("com.huawei.hms:network-grs:5.0.10.302")
+    implementation("com.huawei.agconnect:agconnect-core:1.9.1.300")
+    
+    // Добавляем Huawei Analytics для решения проблемы с missing classes
+    implementation("com.huawei.hms:hianalytics:6.9.0.300")
+    
+    // Добавляем Conscrypt для поддержки сетевых операций
+    implementation("org.conscrypt:conscrypt-android:2.5.2")
+    
+    // Добавляем Cronet зависимость для решения проблемы с missing classes
+    implementation("org.chromium.net:cronet-embedded:76.3809.111")
+}
+
+flutter {
+    source = "../.."
+}

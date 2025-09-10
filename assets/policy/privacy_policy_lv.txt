@@ -1,0 +1,106 @@
+🛡️ Privātuma politika
+
+Spēkā stāšanās datums: 2025. gada 6. maijs
+Lietotnes nosaukums: Forest Calculator
+Izstrādātājs: DR.IT.Studio
+Atrašanās vieta: Kijeva, Ukraina
+Kontakts: support@dr-it.studio
+
+1. Ievads
+Forest Calculator lietotni izstrādājis DR.IT.Studio ("mēs"), tā paredzēta koksnes tilpuma aprēķināšanai un citiem profesionāliem uzdevumiem.
+Šī privātuma politika skaidro, kādus datus mēs apkopojam, kā tos izmantojam, glabājam, aizsargājam un pārsūtām, tostarp informāciju par reklāmām un maksas abonementiem.
+Lietotne tiek izplatīta caur Huawei AppGallery, un visas reklāmas un abonementa funkcijas atbilst Huawei prasībām.
+
+2. Kādi datus mēs apkopojam
+
+2.1 Personas dati
+Mēs automātiski neapkopojam personas datus. Lietotājs var tos brīvprātīgi sniegt:
+- e-pasta adresi, sazinoties ar atbalstu;
+- lietotnē manuāli ievadītu saturu un parametrus (aprēķini, piezīmes).
+
+2.2 Ne-personas (tehniskie) dati
+Diagnostikas, pakalpojuma uzlabošanas un reklāmas nolūkos mēs varam apkopot anonīmus datus, piemēram:
+- ierīces tips un OS versija;
+- saskarnes valoda;
+- lietotnes funkciju izmantošanas biežums un veids;
+- kļūdu dati (crash logs);
+- ierīces reklāmas identifikators (OAID vai Advertising ID).
+
+3. Atļaujas un piekļuve ierīcei
+
+Atļauja                  Mērķis
+Piekļuve glabātuvei      Failu saglabāšana un atvēršana (PDF, Excel u.c.)
+Internets                Atjauninājumi, reklāmas, e-pasta sūtīšana
+Koplietošana ar citām lietotnēm Aprēķinu eksportēšana caur ziņojumapmaiņu un e-pastu
+Instalēto lietotņu saraksts (pēc izvēles) Pieejamo eksportēšanas metožu rādīšana
+
+Mēs neizmantojam atļaujas, lai izsekotu aktivitātes citās lietotnēs.
+
+4. Reklāmas un trešo pušu pakalpojumi
+
+4.1 Vispārīga informācija
+Lietotne var rādīt personalizētas vai nepersonalizētas reklāmas caur trešo pušu reklāmas tīkliem, tostarp:
+- Huawei Ads
+- Google AdMob
+- AppLovin
+- Unity Ads
+
+Lietotājs izvēlas reklāmas veidu pirmajā lietošanas reizē un var to mainīt lietotnes iestatījumos.
+
+4.2 Apbalvotās reklāmas (Rewarded Video)
+- Lietotājs brīvprātīgi skatās video, lai piekļūtu noteiktām funkcijām (piemēram, premium rīkiem).
+- Apbalvoto reklāmu skatīšanās vienmēr ir brīvprātīga.
+- Pirms reklāmas rādīšanas lietotājs saņem skaidru skaidrojumu par funkciju, ko saņems.
+- Apbalvojums tiek piešķirts tikai pēc pilnīgas reklāmas noskatīšanās.
+
+4.3 Trešo pušu pakalpojumu izmantotās tehnoloģijas
+Trešo pušu reklāmas tīkli var izmantot:
+- reklāmas identifikatorus;
+- sīkdatnes vai līdzīgas tehnoloģijas;
+- apkopotus datus personalizētai reklāmai.
+
+Reklāmas tīklu politika:
+- Huawei Ads: https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/ads-introduction-0000001050047190
+- Google Ads / AdMob: https://policies.google.com/technologies/ads
+- AppLovin: https://www.applovin.com/privacy/
+- Unity Ads: https://unity.com/legal/privacy-policy
+
+5. Maksas funkcijas un abonementi
+Lietotne var piedāvāt:
+- uzlabotas aprēķinu metodes;
+- eksportu uz PDF, Excel;
+- reklāmu noņemšanu;
+- premium piekļuvi (abonements vai vienreizējs).
+
+Visi maksājumi tiek apstrādāti caur Huawei In-App Purchases vai Google Play.
+Ja lietotne instalēta caur Huawei AppGallery, visi pirkumi tiek apstrādāti caur Huawei IAP. Google Play saites ir aktuālas tikai versijām, kas izplatītas caur Google Play.
+
+Mēs neuzglabājam un neapstrādājam bankas kartes datus.
+
+6. Kontrole pār saviem datiem
+Jūs varat:
+- dzēst saglabātos datus lietotnē vai Android;
+- atsaukt atļaujas ierīces iestatījumos;
+- atspējot reklāmas, iegādājoties attiecīgo funkciju;
+- mainīt piekrišanu personalizētai reklāmai;
+- pieprasīt brīvprātīgi sniegto datu dzēšanu, rakstot uz support@dr-it.studio.
+
+7. Drošība
+- Lietotne bez piekrišanas nepārsūta lietotāja datus uz ārējiem serveriem.
+- Visi aprēķini un dokumenti tiek glabāti lokāli.
+- Ieteicams izmantot ekrāna bloķēšanu un citus ierīces aizsardzības pasākumus.
+
+8. Bērnu privātums
+Lietotne nav paredzēta bērniem līdz 13 gadu vecumam un neapkopo viņu datus. Ja bērns ir sniedzis personas datus, sazinieties ar mums — mēs tos dzēsīsim.
+
+9. Politikas atjauninājumi
+Mēs varam periodiski atjaunināt šo politiku. Visas izmaiņas stājas spēkā pēc jaunās versijas publicēšanas un atjauninātā spēkā stāšanās datuma. Lietotājiem ieteicams regulāri pārbaudīt politiku.
+
+10. Kontaktinformācija
+DR.IT.Studio
+Kijeva, Ukraina
+E-pasts: support@dr-it.studio
+
+11. Lietotāja piekrišana
+Izmantojot Forest Calculator lietotni, jūs apstiprināt savu piekrišanu šīs privātuma politikas noteikumiem. Ja nepiekrītat — pārtrauciet lietotnes izmantošanu.
+
