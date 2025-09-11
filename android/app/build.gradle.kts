@@ -64,12 +64,15 @@ android {
         release {
             // Отключаем подпись для создания неподписанного AAB для AppGallery
             // signingConfig = signingConfigs.getByName("release")
-            
-            // ВКЛЮЧАЕМ минификацию с правилами ProGuard для HMS SDK
-            isMinifyEnabled = true
-            isShrinkResources = true
-            
-            // Правила Proguard/R8 для правильной работы HMS SDK (КРИТИЧЕСКИ ВАЖНО)
+
+            // TEMP: Disable minify & resource shrink to satisfy AppGallery review (they flagged possible obfuscation of HMS Update API)
+            // After approval you can re-enable:
+            // isMinifyEnabled = true
+            // isShrinkResources = true
+            isMinifyEnabled = false
+            isShrinkResources = false
+
+            // Правила Proguard/R8 (останутся на месте даже при отключенной минификации)
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
         
